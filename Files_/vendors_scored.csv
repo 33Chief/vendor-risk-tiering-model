@@ -1,0 +1,521 @@
+vendor_id,vendor_name,industry,country,region_risk,annual_spend_usd,contract_value_usd,relationship_years,data_access_level,business_criticality,financial_health_score,security_certification,compliance_incidents_3yr,sla_breach_count_1yr,on_time_delivery_rate,subcontractor_use,insurance_adequate,sanctions_screening,last_assessment_days_ago,risk_tier,predicted_tier,risk_score_0_100,p_low,p_medium,p_high
+VEN20000,Vantage Holdings,IT Services,Poland,Medium,51700.0,101000.0,3.6,Limited,High,76.5,ISO27001,1,0,0.99,Yes,Yes,Clear,177,High,High,75.0,0.133,0.2337,0.6333
+VEN20001,Lighthouse Holdings,Financial Services,Russia,High,115400.0,232800.0,0.4,Limited,Medium,60.5,ISO27001,1,0,0.943,No,No,Clear,420,High,High,86.2,0.0839,0.1085,0.8076
+VEN20002,Northgate Systems,Facilities & Maintenance,India,Medium,76900.0,225500.0,2.9,Full,High,97.2,SOC2,0,0,0.874,No,Yes,Clear,42,Low,Low,44.5,0.3807,0.3478,0.2715
+VEN20003,Horizon Systems,IT Services,Brazil,Medium,9500.0,16700.0,1.4,Full,Low,76.9,SOC2,0,3,0.88,No,Yes,Clear,71,Medium,Medium,40.5,0.2718,0.647,0.0812
+VEN20004,Cascade Logistics,Cloud/SaaS,United States,Low,171800.0,354400.0,1.0,Limited,Medium,69.0,Both,1,0,0.921,No,Yes,Clear,483,Low,Low,24.9,0.6092,0.2845,0.1063
+VEN20005,Vantage Partners,Consulting,China,High,42200.0,77200.0,0.2,Full,Low,56.9,SOC2,0,0,0.833,No,Yes,Clear,242,Medium,Medium,41.8,0.3217,0.521,0.1573
+VEN20006,Bridgeline Group,IT Services,Japan,Low,13500.0,25100.0,11.9,No Access,Low,78.5,Both,0,1,1.0,No,No,Clear,209,Low,Low,7.8,0.8745,0.0947,0.0308
+VEN20007,Pinnacle Logistics,IT Services,China,High,115200.0,454200.0,15.3,Limited,High,65.7,Not Certified,0,0,0.997,No,Yes,Clear,7,High,High,80.4,0.1083,0.176,0.7158
+VEN20008,Trailhead Logistics,Consulting,United Kingdom,Low,297500.0,148800.0,2.0,Limited,Medium,66.2,Not Certified,0,0,0.876,No,Yes,Clear,101,Medium,Medium,38.5,0.3196,0.5903,0.0901
+VEN20009,Trailhead Industries,Facilities & Maintenance,Mexico,Medium,62400.0,170500.0,5.5,No Access,Medium,75.4,ISO27001,0,0,0.933,No,Yes,Clear,1400,Low,Low,23.7,0.6363,0.2535,0.1103
+VEN20010,Waypoint Industries,Manufacturing,South Africa,Medium,51600.0,82700.0,0.2,No Access,Medium,75.6,ISO27001,0,1,1.0,No,Yes,Clear,117,Low,Low,17.5,0.7497,0.1515,0.0988
+VEN20011,Cascade Technologies,Financial Services,Poland,Medium,34100.0,78900.0,11.3,No Access,Medium,61.0,SOC2,2,0,0.964,No,Yes,Clear,199,Low,Low,25.6,0.6128,0.2633,0.1239
+VEN20012,Meridian Industries,Marketing & Media,Mexico,Medium,43600.0,43400.0,0.8,No Access,Medium,90.0,SOC2,2,0,0.88,No,Yes,Clear,189,Medium,Medium,36.6,0.3417,0.5837,0.0746
+VEN20013,Summit Systems,Logistics,Russia,High,257000.0,620000.0,0.2,Full,Medium,58.4,Both,0,3,0.813,No,Yes,Clear,225,Medium,Medium,52.3,0.1448,0.6651,0.1901
+VEN20014,Brightline Holdings,IT Services,United States,Low,78500.0,124800.0,5.5,Full,Medium,56.8,ISO27001,1,0,0.843,No,Yes,Clear,415,Medium,Medium,40.9,0.314,0.5537,0.1323
+VEN20015,Waypoint Technologies,Staffing,United States,Low,116000.0,314000.0,1.7,No Access,Low,76.7,SOC2,0,1,1.0,No,Yes,Clear,202,Low,Low,4.2,0.9228,0.07,0.0072
+VEN20016,Waypoint Group,Marketing & Media,India,Medium,138400.0,465200.0,1.7,No Access,Low,74.2,Not Certified,0,1,0.959,No,Yes,Clear,174,Low,Low,15.2,0.743,0.2098,0.0472
+VEN20017,Anchor Technologies,Financial Services,Nigeria,High,8000.0,9800.0,1.0,Limited,Medium,73.4,Not Certified,0,0,0.863,No,Yes,Clear,340,High,High,80.0,0.1199,0.1603,0.7198
+VEN20018,Anchor Dynamics,Payment Processing,Poland,Medium,86200.0,81000.0,5.3,Full,Low,66.6,SOC2,0,0,0.982,Yes,Yes,Clear,59,Low,Low,27.9,0.5062,0.4289,0.065
+VEN20019,Waypoint Consulting,Facilities & Maintenance,United Kingdom,Low,137300.0,437300.0,1.7,Limited,Low,72.9,SOC2,1,0,0.919,Yes,Yes,Clear,51,Low,Low,19.0,0.664,0.2912,0.0448
+VEN20020,Lighthouse Partners,Consulting,United States,Low,92100.0,353900.0,0.2,Limited,High,64.5,ISO27001,0,0,0.901,No,Yes,Clear,380,Low,Low,39.9,0.4176,0.3663,0.2161
+VEN20021,Horizon Enterprises,Cloud/SaaS,Japan,Low,12900.0,29100.0,4.7,No Access,Low,49.2,Both,0,1,0.909,Yes,Yes,Clear,22,Low,Low,11.9,0.786,0.1895,0.0245
+VEN20022,Sterling Consulting,Facilities & Maintenance,Australia,Low,28800.0,16200.0,13.7,Full,Low,82.6,Both,0,0,0.913,No,Yes,Clear,17,Low,Low,20.9,0.652,0.2786,0.0694
+VEN20023,Lighthouse Co.,Financial Services,Australia,Low,154900.0,151200.0,0.5,Full,High,58.1,Not Certified,1,1,1.0,Yes,Yes,Clear,6,High,High,85.3,0.0931,0.107,0.7999
+VEN20024,Redwood Partners,Logistics,Mexico,Medium,114600.0,347300.0,1.2,Limited,Low,69.1,SOC2,2,0,0.884,Yes,No,Clear,302,High,High,71.2,0.1582,0.2606,0.5813
+VEN20025,Vantage Networks,Facilities & Maintenance,United Kingdom,Low,118600.0,436900.0,9.4,No Access,Low,82.5,SOC2,1,2,0.916,No,Yes,Clear,163,Low,Low,17.1,0.6893,0.2785,0.0322
+VEN20026,Vantage Consulting,Cloud/SaaS,China,High,19100.0,41000.0,0.7,No Access,High,72.6,Both,0,3,1.0,No,Yes,Clear,45,Low,Medium,49.8,0.2974,0.4089,0.2937
+VEN20027,Clearway Solutions,Staffing,United Kingdom,Low,97300.0,111900.0,2.9,Limited,Low,100.0,SOC2,1,3,1.0,No,Yes,Clear,951,Medium,Medium,31.4,0.401,0.5698,0.0293
+VEN20028,Waypoint Holdings,Payment Processing,United States,Low,374200.0,1194100.0,1.1,Limited,High,52.7,Not Certified,0,1,0.882,No,Yes,Clear,29,Medium,Medium,52.3,0.1843,0.5857,0.2301
+VEN20029,Outpost Labs,IT Services,Germany,Low,74500.0,85100.0,0.4,No Access,Medium,61.8,SOC2,0,0,1.0,Yes,No,Clear,12,Low,Low,30.2,0.5635,0.2681,0.1684
+VEN20030,Meridian Dynamics,Financial Services,China,High,334400.0,566500.0,2.7,Limited,Low,73.5,ISO27001,0,0,1.0,Yes,Yes,Clear,10,Medium,Medium,42.3,0.2177,0.7187,0.0635
+VEN20031,Vantage Group,Logistics,United States,Low,192000.0,333400.0,1.7,Full,Low,91.2,SOC2,0,0,0.852,Yes,Yes,Clear,14,Low,Low,20.6,0.6337,0.321,0.0452
+VEN20032,Sterling Logistics,IT Services,United Kingdom,Low,183100.0,316500.0,0.4,No Access,High,68.8,Not Certified,0,0,1.0,No,Yes,Clear,35,Low,Low,20.4,0.6642,0.263,0.0728
+VEN20033,Outpost Partners,Payment Processing,China,High,32800.0,88300.0,8.2,No Access,Low,52.2,ISO27001,0,1,0.852,No,No,Clear,119,Medium,Medium,49.9,0.2743,0.4525,0.2732
+VEN20034,Fulcrum Networks,Manufacturing,Germany,Low,33700.0,49200.0,3.8,No Access,Low,88.2,Both,0,1,0.98,No,Yes,Clear,51,Low,Low,5.6,0.9002,0.0881,0.0118
+VEN20035,Vantage Partners 2,Cloud/SaaS,South Africa,Medium,32800.0,77800.0,1.0,Limited,High,59.3,ISO27001,0,1,0.872,Yes,Yes,Clear,63,High,High,82.0,0.0802,0.1991,0.7208
+VEN20036,Horizon Dynamics,Marketing & Media,United States,Low,265000.0,831900.0,0.9,Limited,Low,69.4,Not Certified,2,1,0.834,No,Yes,Clear,147,Medium,Medium,37.1,0.3148,0.6278,0.0574
+VEN20037,Meridian Industries 2,Cloud/SaaS,China,High,297600.0,934600.0,0.2,Full,High,84.5,Not Certified,1,2,0.991,Yes,Yes,Clear,139,High,High,60.0,0.2286,0.3429,0.4285
+VEN20038,Redwood Partners 2,Payment Processing,Canada,Low,21500.0,72000.0,10.8,No Access,Medium,62.8,SOC2,1,1,0.965,No,Yes,Clear,253,Low,Low,14.1,0.7805,0.1576,0.0619
+VEN20039,Beacon Labs,Cloud/SaaS,Canada,Low,16200.0,31500.0,2.0,No Access,Medium,65.9,SOC2,1,0,0.935,Yes,Yes,Clear,66,Low,Low,23.1,0.6075,0.3229,0.0696
+VEN20040,Clearway Group,IT Services,Philippines,Medium,81900.0,70300.0,11.3,Full,Low,79.0,Not Certified,0,0,0.951,No,Yes,Clear,5,Low,Low,21.9,0.6509,0.26,0.0891
+VEN20041,Trailhead Dynamics,Cloud/SaaS,Venezuela,High,318400.0,766300.0,2.7,No Access,Medium,69.3,Not Certified,0,0,0.934,No,Yes,Clear,183,Low,Medium,45.7,0.2802,0.525,0.1948
+VEN20042,Vantage Systems,Logistics,Russia,High,96800.0,236000.0,1.3,No Access,High,76.2,SOC2,0,1,0.925,No,Yes,Clear,22,High,Low,49.6,0.339,0.3297,0.3313
+VEN20043,Keystone Global,Financial Services,Philippines,Medium,146800.0,365300.0,2.9,Limited,Low,58.9,SOC2,0,1,0.877,Yes,Yes,Clear,36,Medium,Medium,38.1,0.2976,0.6429,0.0595
+VEN20044,Summit Solutions,Payment Processing,China,High,123500.0,239300.0,1.7,No Access,Low,70.5,Both,0,0,0.975,No,Yes,Clear,12,Low,Low,19.9,0.658,0.2853,0.0567
+VEN20045,Clearway Logistics,Marketing & Media,Venezuela,High,137500.0,361000.0,6.7,No Access,Low,56.8,ISO27001,1,0,0.941,No,Yes,Clear,331,High,Medium,45.5,0.2901,0.5104,0.1995
+VEN20046,Waypoint Systems,Logistics,India,Medium,60800.0,86200.0,1.7,Limited,Low,50.3,SOC2,0,0,0.926,No,Yes,Clear,672,Medium,Medium,43.6,0.2631,0.6017,0.1352
+VEN20047,Meridian Co.,IT Services,United States,Low,123000.0,359300.0,2.0,Limited,Low,96.7,Not Certified,0,0,0.906,No,Yes,Clear,344,Low,Low,16.7,0.7015,0.2637,0.0348
+VEN20048,Silverline Consulting,Cloud/SaaS,South Africa,Medium,155500.0,575200.0,6.7,Limited,High,78.5,Not Certified,0,0,0.923,Yes,Yes,Clear,327,High,High,78.0,0.1051,0.2302,0.6647
+VEN20049,Sterling Dynamics,Consulting,Germany,Low,62600.0,148300.0,3.8,Limited,Low,84.9,ISO27001,0,1,0.85,No,Yes,Clear,440,Low,Low,15.9,0.73,0.2216,0.0483
+VEN20050,Apex Labs,Financial Services,United Kingdom,Low,485800.0,1119200.0,5.1,Limited,Low,58.5,SOC2,1,1,0.922,No,Yes,Clear,32,Low,Low,13.2,0.7728,0.1906,0.0367
+VEN20051,Momentum Group,Marketing & Media,India,Medium,21000.0,58400.0,3.6,No Access,Low,71.7,ISO27001,0,2,0.882,No,Yes,Clear,1098,Medium,Medium,38.9,0.2772,0.6683,0.0545
+VEN20052,Cascade Networks,IT Services,United States,Low,45600.0,123600.0,4.1,Limited,Low,69.2,Not Certified,0,1,1.0,No,Yes,Clear,9,Low,Low,13.9,0.7581,0.2061,0.0358
+VEN20053,Horizon Logistics,IT Services,United States,Low,27000.0,73600.0,1.4,Limited,Medium,52.2,Both,0,0,0.883,No,Yes,Clear,130,Low,Low,26.7,0.5911,0.2846,0.1242
+VEN20054,Horizon Technologies,Payment Processing,United Kingdom,Low,240700.0,584600.0,6.0,No Access,Medium,79.7,SOC2,1,1,0.913,No,Yes,Clear,91,Low,Low,20.0,0.6645,0.2706,0.0649
+VEN20055,Meridian Group,Facilities & Maintenance,India,Medium,246100.0,500800.0,1.6,Limited,Low,62.0,SOC2,0,1,0.941,Yes,Yes,Clear,214,Low,Low,25.2,0.578,0.3399,0.0821
+VEN20056,Sterling Labs,Logistics,Philippines,Medium,30100.0,106700.0,0.8,No Access,Medium,69.2,ISO27001,0,0,0.987,No,Yes,Clear,35,Low,Low,25.3,0.6334,0.2274,0.1393
+VEN20057,Horizon Logistics 2,Logistics,Nigeria,High,77300.0,99600.0,1.4,Full,Medium,50.8,ISO27001,0,0,0.967,No,Yes,Clear,522,High,High,83.0,0.0799,0.1799,0.7402
+VEN20058,Nova Partners,IT Services,Brazil,Medium,42300.0,134500.0,3.5,No Access,Low,86.0,ISO27001,0,0,0.941,Yes,Yes,Clear,190,Low,Low,15.3,0.729,0.2363,0.0346
+VEN20059,Trailhead Solutions,Cloud/SaaS,Nigeria,High,14900.0,23300.0,0.4,No Access,High,82.7,Not Certified,0,0,1.0,No,Yes,Clear,207,Medium,Medium,45.1,0.1971,0.7037,0.0992
+VEN20060,Bridgeline Labs,IT Services,Mexico,Medium,28100.0,74500.0,0.7,Full,Medium,77.6,Not Certified,1,2,0.939,No,Yes,Clear,70,High,High,75.1,0.1495,0.1986,0.652
+VEN20061,Keystone Enterprises,Payment Processing,Philippines,Medium,103400.0,153800.0,7.0,Full,Low,59.3,SOC2,2,1,0.959,No,Yes,Clear,233,Medium,Medium,40.2,0.2968,0.6021,0.101
+VEN20062,Apex Group,Financial Services,India,Medium,135000.0,135500.0,0.4,Full,High,64.5,ISO27001,0,2,1.0,No,Yes,Clear,551,High,High,83.5,0.1043,0.1205,0.7752
+VEN20063,Fulcrum Systems,IT Services,United States,Low,30700.0,43600.0,6.7,Limited,Medium,89.2,ISO27001,0,1,0.887,No,Yes,Clear,393,Low,Low,15.2,0.7492,0.1984,0.0524
+VEN20064,Outpost Global,Staffing,United States,Low,70600.0,103800.0,1.6,Limited,Low,68.2,SOC2,0,2,0.997,No,Yes,Clear,357,Low,Low,14.2,0.741,0.2344,0.0246
+VEN20065,Outpost Consulting,Cloud/SaaS,Philippines,Medium,181500.0,607200.0,1.9,Limited,Low,75.8,ISO27001,0,0,0.966,Yes,Yes,Clear,164,Low,Low,25.2,0.5721,0.352,0.0758
+VEN20066,Momentum Global,IT Services,Canada,Low,343100.0,606400.0,13.4,Limited,Low,74.0,ISO27001,0,1,0.862,No,Yes,Clear,358,Low,Low,20.4,0.6428,0.3067,0.0505
+VEN20067,Fulcrum Labs,Facilities & Maintenance,Brazil,Medium,105500.0,177800.0,2.4,Limited,Low,56.4,ISO27001,0,1,0.903,No,Yes,Clear,620,High,High,60.1,0.2523,0.2929,0.4549
+VEN20068,Vertex Dynamics,Payment Processing,Australia,Low,28000.0,40900.0,0.8,Full,Low,93.4,Both,0,0,0.99,Yes,Yes,Clear,281,Low,Low,12.0,0.7809,0.1992,0.0199
+VEN20069,Anchor Holdings,IT Services,United States,Low,11700.0,26100.0,0.5,No Access,Low,44.3,SOC2,0,1,0.854,Yes,Yes,Clear,24,Low,Low,13.3,0.7718,0.1904,0.0379
+VEN20070,Beacon Consulting,Staffing,India,Medium,76600.0,171200.0,6.5,Full,High,,ISO27001,0,0,0.929,No,Yes,Clear,150,Medium,Medium,49.7,0.2201,0.5667,0.2132
+VEN20071,Trailhead Labs,Cloud/SaaS,Japan,Low,49800.0,134900.0,2.3,No Access,Medium,70.8,Both,0,1,0.996,No,Yes,Clear,391,Low,Low,9.9,0.8229,0.1559,0.0212
+VEN20072,Zenith Group,IT Services,United States,Low,36500.0,61600.0,1.3,No Access,Low,49.4,Not Certified,0,0,0.926,Yes,Yes,Clear,87,Low,Low,16.8,0.7052,0.253,0.0417
+VEN20073,Beacon Global,IT Services,United Kingdom,Low,32300.0,41100.0,11.0,Full,Low,76.7,Both,0,0,0.956,No,No,Clear,364,Low,Low,17.5,0.6983,0.2528,0.0488
+VEN20074,Apex Logistics,Logistics,United Kingdom,Low,37400.0,82200.0,0.2,No Access,Low,79.3,SOC2,1,0,0.9,No,Yes,Clear,43,Low,Low,9.0,0.8416,0.1375,0.0209
+VEN20075,Summit Systems 2,Staffing,Germany,Low,84800.0,250800.0,4.6,Limited,Low,72.8,ISO27001,0,2,0.903,No,Yes,Flagged,408,Medium,High,57.3,0.3025,0.2492,0.4482
+VEN20076,Silverline Enterprises,Financial Services,Poland,Medium,153800.0,439300.0,0.7,Full,Medium,60.5,Not Certified,0,0,0.903,No,Yes,Clear,104,High,High,64.6,0.23,0.2489,0.5211
+VEN20077,Trailhead Enterprises,Payment Processing,United States,Low,28000.0,40500.0,4.0,Limited,Medium,78.4,Not Certified,2,2,0.919,No,Yes,Clear,49,Medium,Medium,49.5,0.2114,0.5882,0.2005
+VEN20078,Silverline Group,Cloud/SaaS,Japan,Low,594800.0,1097600.0,0.3,Limited,High,87.7,Not Certified,0,1,0.978,No,Yes,Clear,68,Medium,Medium,38.7,0.3157,0.5954,0.0889
+VEN20079,Atlas Dynamics,Logistics,Mexico,Medium,360600.0,908800.0,2.9,Limited,Low,75.2,ISO27001,0,1,0.945,No,Yes,Clear,73,Low,Low,17.2,0.6971,0.2613,0.0416
+VEN20080,Zenith Labs,Cloud/SaaS,Nigeria,High,53800.0,95700.0,0.2,Full,Medium,96.2,Not Certified,0,0,1.0,No,Yes,Clear,109,Medium,High,50.7,0.3502,0.2854,0.3643
+VEN20081,Crestview Technologies,Consulting,United States,Low,101400.0,112600.0,4.2,Full,Medium,84.1,SOC2,0,1,0.973,Yes,No,Clear,294,Low,Low,41.7,0.4022,0.3617,0.2361
+VEN20082,Lighthouse Technologies,Consulting,United States,Low,403200.0,970600.0,0.4,No Access,Low,82.8,ISO27001,0,3,0.957,Yes,Yes,Clear,239,Low,Low,7.6,0.8664,0.1152,0.0184
+VEN20083,Nova Technologies,Logistics,Canada,Low,25200.0,49400.0,3.8,No Access,Medium,91.5,Not Certified,0,1,1.0,No,No,Clear,18,Low,Low,11.0,0.8285,0.124,0.0476
+VEN20084,Union Enterprises,Manufacturing,Canada,Low,35400.0,88100.0,1.9,No Access,Low,62.8,Not Certified,1,0,0.933,No,Yes,Clear,151,Low,Low,15.9,0.7191,0.2429,0.0381
+VEN20085,Nova Holdings,Logistics,United States,Low,35700.0,104900.0,0.3,No Access,Low,64.8,Both,0,0,0.892,No,Yes,Clear,59,Low,Low,8.9,0.8455,0.1303,0.0242
+VEN20086,Redwood Global,Staffing,United States,Low,22600.0,41800.0,11.4,Full,Low,79.3,Not Certified,0,0,0.949,No,Yes,Clear,114,Low,Low,14.6,0.7501,0.2073,0.0426
+VEN20087,Summit Industries,IT Services,Canada,Low,161700.0,214800.0,3.5,Full,High,79.3,SOC2,1,1,0.875,Yes,Yes,Clear,553,High,Low,47.4,0.3586,0.334,0.3074
+VEN20088,Pinnacle Partners,IT Services,Canada,Low,55900.0,91300.0,4.7,No Access,Low,93.2,SOC2,0,0,0.971,No,Yes,Clear,70,Low,Low,5.1,0.9033,0.0909,0.0058
+VEN20089,Redwood Solutions,Manufacturing,Australia,Low,80300.0,231200.0,4.8,No Access,High,88.1,Both,0,0,1.0,No,Yes,Clear,38,Low,Low,7.2,0.8776,0.0999,0.0225
+VEN20090,Beacon Consulting 2,Cloud/SaaS,Mexico,Medium,78800.0,183700.0,8.1,No Access,Low,74.5,ISO27001,0,0,0.978,No,Yes,Flagged,294,Medium,Low,44.6,0.4326,0.2428,0.3246
+VEN20091,Keystone Technologies,Payment Processing,Germany,Low,57200.0,164800.0,1.0,Limited,Low,75.2,SOC2,0,2,0.916,No,No,Clear,269,Medium,Medium,32.9,0.3944,0.5527,0.0529
+VEN20092,Vertex Labs,Staffing,United States,Low,403300.0,795000.0,7.4,Full,High,68.3,Not Certified,0,1,0.931,No,No,Clear,475,Medium,Medium,52.5,0.1435,0.6635,0.193
+VEN20093,Keystone Dynamics,Facilities & Maintenance,United States,Low,59500.0,169700.0,1.3,Limited,Medium,67.0,Both,2,2,0.969,Yes,Yes,Clear,298,Medium,Medium,43.3,0.2689,0.5967,0.1344
+VEN20094,Sterling Group,Marketing & Media,United Kingdom,Low,27100.0,50500.0,4.5,Limited,Low,65.8,SOC2,0,0,1.0,Yes,Yes,Clear,132,Low,Low,14.3,0.736,0.2411,0.0228
+VEN20095,Waypoint Systems 2,Marketing & Media,Canada,Low,15000.0,26000.0,0.4,Full,High,84.8,Both,1,0,0.916,No,No,Clear,288,Medium,Medium,46.3,0.2136,0.6464,0.14
+VEN20096,Nova Technologies 2,Staffing,Australia,Low,33200.0,74700.0,0.2,Full,Medium,65.6,ISO27001,0,0,0.915,No,Yes,Clear,41,Low,Low,25.3,0.6325,0.2293,0.1382
+VEN20097,Vertex Enterprises,Consulting,South Africa,Medium,89000.0,191800.0,0.5,No Access,Low,67.2,SOC2,0,2,1.0,No,Yes,Clear,56,Low,Low,11.8,0.8008,0.1621,0.0372
+VEN20098,Sterling Systems,Cloud/SaaS,Philippines,Medium,87500.0,180400.0,0.9,Limited,Medium,74.4,Both,0,1,0.953,Yes,Yes,Clear,16,Low,Low,37.5,0.4387,0.3724,0.1889
+VEN20099,Crestview Holdings,Facilities & Maintenance,Canada,Low,99800.0,229300.0,5.3,Full,Medium,65.0,ISO27001,1,0,0.961,Yes,Yes,Clear,455,Medium,Medium,46.9,0.3476,0.3673,0.285
+VEN20100,Nova Industries,Cloud/SaaS,United States,Low,44800.0,135700.0,3.1,Full,Low,69.0,SOC2,2,0,0.969,No,Yes,Clear,78,Low,Low,19.0,0.6756,0.2684,0.056
+VEN20101,Momentum Co.,Manufacturing,United States,Low,118600.0,203000.0,0.2,Limited,Medium,41.7,ISO27001,1,0,0.894,No,Yes,Clear,78,Low,Low,36.4,0.4982,0.2745,0.2272
+VEN20102,Momentum Technologies,Staffing,Japan,Low,121200.0,101500.0,16.3,No Access,High,77.5,Not Certified,1,0,0.931,No,Yes,Clear,57,Low,Low,19.8,0.6807,0.2419,0.0774
+VEN20103,Vantage Co.,Payment Processing,Germany,Low,18400.0,47700.0,4.0,Limited,Medium,68.0,SOC2,1,0,1.0,No,Yes,Clear,62,Low,Low,14.6,0.7655,0.178,0.0565
+VEN20104,Keystone Labs,Staffing,Poland,Medium,113700.0,430100.0,1.5,Limited,Medium,75.0,Not Certified,0,1,0.931,No,Yes,Clear,61,Medium,Medium,47.9,0.2564,0.5302,0.2135
+VEN20105,Pinnacle Dynamics,IT Services,United States,Low,116100.0,361000.0,4.1,Limited,High,77.5,Not Certified,0,0,0.928,No,Yes,Clear,331,Medium,Medium,39.5,0.3076,0.5944,0.098
+VEN20106,Trailhead Holdings,Logistics,United Kingdom,Low,53000.0,68400.0,3.6,Full,Medium,46.5,Not Certified,0,2,0.958,No,Yes,Clear,198,Medium,Medium,46.2,0.2391,0.5977,0.1632
+VEN20107,Lighthouse Consulting,Cloud/SaaS,Poland,Medium,252000.0,661500.0,0.2,Limited,Medium,100.0,SOC2,1,1,0.963,Yes,Yes,Clear,312,Medium,Medium,41.7,0.292,0.5827,0.1253
+VEN20108,Horizon Solutions,Consulting,India,Medium,77300.0,244300.0,0.9,Limited,Medium,74.8,SOC2,1,0,1.0,No,Yes,Clear,103,Low,Low,24.9,0.6364,0.2285,0.1351
+VEN20109,Fulcrum Industries,Cloud/SaaS,India,Medium,30700.0,91600.0,5.3,Limited,Medium,75.2,Not Certified,0,0,0.892,No,Yes,Clear,267,Medium,Medium,51.7,0.2571,0.4527,0.2903
+VEN20110,Fulcrum Technologies,Cloud/SaaS,China,High,211800.0,791200.0,2.7,No Access,Medium,47.9,SOC2,0,1,0.949,No,Yes,Clear,202,Medium,Medium,49.6,0.2739,0.4609,0.2653
+VEN20111,Lighthouse Systems,Logistics,United States,Low,544700.0,1605700.0,1.9,No Access,Low,81.7,Both,0,1,1.0,No,Yes,Clear,29,Low,Low,3.7,0.9333,0.059,0.0077
+VEN20112,Redwood Enterprises,IT Services,Canada,Low,19500.0,9800.0,2.1,Limited,Low,78.9,Not Certified,0,0,0.942,No,No,Clear,1146,Low,Low,18.2,0.7108,0.2142,0.075
+VEN20113,Pinnacle Solutions,Payment Processing,India,Medium,67000.0,182600.0,5.4,Full,Low,68.2,Not Certified,0,3,0.963,No,Yes,Clear,115,Medium,Low,30.2,0.4929,0.4094,0.0977
+VEN20114,Beacon Technologies,Marketing & Media,India,Medium,198200.0,324300.0,1.3,Limited,High,76.8,Both,0,0,0.854,No,Yes,Clear,406,Low,High,57.0,0.2761,0.308,0.4159
+VEN20115,Horizon Global,Cloud/SaaS,Venezuela,High,145600.0,220000.0,7.7,Full,Low,91.4,Not Certified,2,2,0.998,No,Yes,Clear,53,High,High,75.2,0.1338,0.2287,0.6375
+VEN20116,Lighthouse Co. 2,Financial Services,Russia,High,231400.0,201600.0,0.2,Limited,Low,68.9,ISO27001,0,0,0.992,Yes,Yes,Clear,26,Medium,Medium,42.8,0.1928,0.7581,0.0491
+VEN20117,Trailhead Industries 2,IT Services,India,Medium,323600.0,395400.0,4.6,Full,High,61.1,Not Certified,0,0,0.989,No,No,Clear,256,High,High,63.7,0.2104,0.3044,0.4852
+VEN20118,Horizon Partners,Facilities & Maintenance,Philippines,Medium,9500.0,18600.0,1.4,Full,Low,92.4,Not Certified,0,1,0.93,Yes,Yes,Clear,275,Medium,Medium,38.2,0.3143,0.6067,0.0789
+VEN20119,Fulcrum Networks 2,Cloud/SaaS,Poland,Medium,159600.0,502100.0,3.5,Limited,Low,77.6,ISO27001,0,1,0.962,No,Yes,Clear,113,Low,Low,22.2,0.6173,0.3207,0.062
+VEN20120,Beacon Labs 2,IT Services,United States,Low,11400.0,36300.0,0.4,Full,Low,71.5,ISO27001,0,1,0.936,No,Yes,Clear,564,Medium,Medium,34.1,0.3732,0.5725,0.0543
+VEN20121,Meridian Consulting,IT Services,Mexico,Medium,24800.0,69400.0,2.7,Full,Low,100.0,Not Certified,0,0,0.991,No,Yes,Clear,172,Low,Low,19.6,0.6813,0.2461,0.0727
+VEN20122,Apex Networks,Facilities & Maintenance,United Kingdom,Low,21100.0,68800.0,5.7,Limited,Medium,76.3,SOC2,0,1,0.94,No,Yes,Clear,603,Low,Low,15.8,0.7444,0.1951,0.0606
+VEN20123,Pinnacle Logistics 2,Marketing & Media,Germany,Low,125500.0,243100.0,5.3,Full,Low,71.6,Not Certified,0,0,0.987,Yes,Yes,Clear,186,Medium,Medium,31.5,0.4095,0.5519,0.0386
+VEN20124,Fulcrum Holdings,Logistics,United States,Low,10900.0,17200.0,3.3,No Access,Low,77.8,Both,1,0,0.861,Yes,Yes,Clear,90,Low,Low,14.0,0.7625,0.1957,0.0418
+VEN20125,Waypoint Enterprises,Marketing & Media,United States,Low,81400.0,310000.0,1.1,No Access,Low,68.4,Not Certified,0,0,0.921,No,No,Clear,266,Low,Low,15.5,0.7397,0.2106,0.0497
+VEN20126,Vertex Solutions,Logistics,South Africa,Medium,12900.0,34000.0,7.5,Full,Low,77.1,SOC2,1,0,0.771,Yes,No,Clear,53,Medium,Medium,45.2,0.1595,0.7764,0.0641
+VEN20127,Trailhead Global,IT Services,Philippines,Medium,703700.0,1389200.0,1.4,No Access,High,76.1,Both,0,0,0.932,No,Yes,Clear,5,Low,Low,31.0,0.5752,0.2304,0.1945
+VEN20128,Clearway Systems,Logistics,Philippines,Medium,39700.0,113900.0,2.8,No Access,Low,64.8,Not Certified,0,2,0.986,Yes,Yes,Clear,499,Medium,Medium,35.7,0.3292,0.627,0.0437
+VEN20129,Cascade Systems,Manufacturing,United Kingdom,Low,71000.0,117500.0,9.2,No Access,Low,70.4,ISO27001,1,0,0.925,Yes,Yes,Clear,417,Low,Low,18.7,0.6624,0.3008,0.0368
+VEN20130,Union Systems,Consulting,Ireland,Low,18900.0,67000.0,1.2,Limited,Medium,78.3,SOC2,0,2,1.0,Yes,Yes,Clear,243,Low,Low,15.3,0.7437,0.2066,0.0497
+VEN20131,Nova Systems,IT Services,Canada,Low,37500.0,45000.0,3.0,No Access,Low,79.3,Both,2,0,0.881,Yes,Yes,Flagged,198,High,High,74.9,0.1991,0.1045,0.6964
+VEN20132,Trailhead Enterprises 2,IT Services,Mexico,Medium,323200.0,589300.0,0.8,Full,Medium,82.1,Both,1,1,0.92,No,Yes,Clear,224,Low,Low,43.1,0.4055,0.3262,0.2683
+VEN20133,Atlas Co.,Facilities & Maintenance,Brazil,Medium,95800.0,202300.0,7.3,No Access,Low,84.9,SOC2,1,2,0.885,No,Yes,Clear,44,Low,Low,18.5,0.6635,0.3038,0.0327
+VEN20134,Union Dynamics,Consulting,Philippines,Medium,19200.0,40300.0,2.0,Limited,Medium,77.4,SOC2,0,0,0.91,No,Yes,Clear,78,Medium,Medium,37.7,0.3642,0.5177,0.1181
+VEN20135,Beacon Co.,Payment Processing,China,High,40700.0,50700.0,7.7,Full,Low,81.1,ISO27001,0,1,0.912,Yes,Yes,Clear,20,Medium,Medium,40.7,0.2618,0.663,0.0752
+VEN20136,Beacon Partners,Marketing & Media,United Kingdom,Low,60300.0,178600.0,1.1,Limited,Medium,68.5,ISO27001,0,0,0.853,Yes,Yes,Clear,7,Medium,Medium,38.6,0.3199,0.5876,0.0925
+VEN20137,Anchor Co.,IT Services,Poland,Medium,534700.0,1480700.0,6.5,Limited,Low,,SOC2,0,2,0.882,Yes,No,Clear,76,Medium,Medium,38.4,0.3083,0.6153,0.0763
+VEN20138,Clearway Systems 2,Staffing,United States,Low,63200.0,146100.0,7.7,Limited,Low,88.3,Both,0,1,1.0,Yes,No,Clear,146,Low,Low,14.6,0.732,0.2444,0.0237
+VEN20139,Outpost Systems,Marketing & Media,India,Medium,119000.0,325400.0,4.9,Full,Medium,46.1,SOC2,0,1,0.925,No,Yes,Clear,83,Medium,Medium,49.0,0.18,0.6602,0.1599
+VEN20140,Ironwood Logistics,Cloud/SaaS,United States,Low,240900.0,455100.0,4.5,Limited,High,78.9,Not Certified,1,1,0.995,No,No,Clear,36,High,Medium,45.3,0.3358,0.4219,0.2423
+VEN20141,Crestview Holdings 2,Financial Services,India,Medium,1100500.0,3360600.0,0.7,No Access,High,100.0,SOC2,1,0,0.865,Yes,Yes,Clear,647,Medium,Medium,50.0,0.1721,0.6563,0.1717
+VEN20142,Meridian Enterprises,IT Services,India,Medium,151500.0,272900.0,0.8,No Access,High,47.7,SOC2,0,2,0.933,Yes,Yes,Clear,174,High,High,79.5,0.1178,0.1741,0.7081
+VEN20143,Summit Dynamics,Staffing,Germany,Low,21300.0,29800.0,3.9,Full,Medium,94.6,SOC2,0,1,0.972,No,Yes,Clear,286,Low,Low,12.7,0.7887,0.1684,0.0429
+VEN20144,Union Partners,Marketing & Media,Germany,Low,23300.0,49500.0,3.8,Limited,Medium,48.9,SOC2,0,0,0.93,Yes,Yes,Clear,144,Low,Low,24.0,0.6413,0.2373,0.1214
+VEN20145,Momentum Labs,Staffing,Poland,Medium,507100.0,1069200.0,0.6,No Access,Medium,78.5,SOC2,0,0,0.91,No,Yes,Clear,189,Low,Low,20.6,0.6873,0.2135,0.0992
+VEN20146,Beacon Industries,Staffing,Australia,Low,115400.0,295000.0,0.7,Limited,Medium,96.1,Both,1,1,0.929,No,Yes,Clear,792,Low,Low,18.0,0.7235,0.1933,0.0831
+VEN20147,Keystone Co.,Logistics,Ireland,Low,8000.0,22600.0,2.5,Limited,High,94.1,Both,0,2,0.942,No,Yes,Flagged,913,High,High,50.9,0.378,0.2253,0.3968
+VEN20148,Meridian Industries 3,Staffing,United States,Low,40300.0,147000.0,5.3,No Access,Low,60.5,Not Certified,0,0,0.99,No,Yes,Clear,145,Low,Low,10.5,0.8094,0.1709,0.0197
+VEN20149,Anchor Holdings 2,Cloud/SaaS,United Kingdom,Low,42800.0,51000.0,2.2,Full,Low,54.9,SOC2,1,3,1.0,No,Yes,Clear,46,Medium,Medium,35.6,0.3335,0.6204,0.0461
+VEN20150,Fulcrum Global,IT Services,South Africa,Medium,48900.0,47800.0,1.4,No Access,Medium,52.9,SOC2,0,1,0.862,No,Yes,Clear,152,Medium,Medium,40.1,0.3836,0.4299,0.1865
+VEN20151,Northgate Enterprises,Manufacturing,Russia,High,150900.0,378100.0,9.7,No Access,Low,83.0,Not Certified,1,0,0.818,No,Yes,Clear,79,Medium,Medium,41.3,0.2587,0.6555,0.0857
+VEN20152,Vantage Solutions,Financial Services,Germany,Low,155900.0,520800.0,15.1,No Access,Low,67.5,Not Certified,0,1,0.929,No,Yes,Clear,59,Low,Low,10.7,0.8229,0.1397,0.0374
+VEN20153,Horizon Co.,Logistics,South Africa,Medium,334700.0,1043800.0,1.7,No Access,High,,SOC2,0,0,0.94,Yes,No,Clear,42,High,High,80.4,0.1217,0.1488,0.7295
+VEN20154,Silverline Global,Facilities & Maintenance,China,High,8300.0,18300.0,6.6,Full,Low,76.5,SOC2,0,0,0.983,No,Yes,Clear,188,High,High,66.9,0.2331,0.1957,0.5712
+VEN20155,Outpost Group,Facilities & Maintenance,Canada,Low,101300.0,212100.0,2.7,Limited,High,78.6,Not Certified,0,0,1.0,Yes,Yes,Clear,55,Medium,Medium,43.6,0.2705,0.5875,0.142
+VEN20156,Union Enterprises 2,Cloud/SaaS,United Kingdom,Low,57300.0,117700.0,1.6,No Access,High,80.3,SOC2,1,1,0.901,No,Yes,Clear,9,Low,Low,21.6,0.6802,0.2084,0.1113
+VEN20157,Brightline Dynamics,Facilities & Maintenance,Poland,Medium,21400.0,79800.0,2.4,Limited,Low,74.5,SOC2,1,0,1.0,No,Yes,Clear,54,Low,Low,22.1,0.6281,0.3017,0.0702
+VEN20158,Keystone Logistics,Logistics,United Kingdom,Low,189700.0,403300.0,4.9,No Access,Medium,50.2,Both,0,0,0.956,No,Yes,Clear,10,Low,Low,17.6,0.721,0.2055,0.0735
+VEN20159,Momentum Holdings,Staffing,Nigeria,High,15800.0,40400.0,4.5,Limited,Low,93.1,Both,0,1,0.835,No,No,Clear,420,High,High,76.4,0.1357,0.2001,0.6641
+VEN20160,Fulcrum Logistics,Logistics,Germany,Low,14800.0,19300.0,2.8,Full,Low,34.2,ISO27001,0,0,0.997,Yes,Yes,Clear,191,Low,Low,16.2,0.7298,0.2173,0.0529
+VEN20161,Momentum Technologies 2,Staffing,Philippines,Medium,462400.0,1407900.0,1.6,No Access,High,90.0,SOC2,1,0,0.957,No,Yes,Clear,1400,High,High,67.9,0.238,0.1659,0.5961
+VEN20162,Pinnacle Consulting,Manufacturing,Poland,Medium,115900.0,254300.0,3.1,Limited,High,64.2,Not Certified,0,1,0.957,Yes,Yes,Clear,72,High,High,68.8,0.1523,0.3192,0.5285
+VEN20163,Brightline Dynamics 2,Facilities & Maintenance,Canada,Low,186100.0,388700.0,2.0,No Access,Medium,69.9,ISO27001,0,0,0.845,No,Yes,Clear,623,Low,Low,18.5,0.6884,0.2529,0.0587
+VEN20164,Beacon Partners 2,Marketing & Media,South Africa,Medium,327100.0,674300.0,11.5,No Access,Low,65.3,Both,0,1,0.922,Yes,Yes,Clear,115,Low,Low,14.1,0.7425,0.2329,0.0245
+VEN20165,Horizon Partners 2,Financial Services,United Kingdom,Low,16700.0,36700.0,1.9,Limited,High,67.4,Both,1,0,0.95,Yes,Yes,Clear,430,Medium,Medium,43.9,0.2579,0.6061,0.136
+VEN20166,Momentum Partners,Cloud/SaaS,United States,Low,349800.0,1573700.0,1.8,Full,Medium,72.3,Both,0,0,0.931,Yes,Yes,Flagged,396,High,High,83.7,0.1174,0.091,0.7916
+VEN20167,Trailhead Dynamics 2,Consulting,United States,Low,81900.0,229500.0,6.4,No Access,High,68.7,ISO27001,0,0,0.981,No,Yes,Clear,278,Low,Low,11.9,0.7888,0.184,0.0272
+VEN20168,Redwood Group,IT Services,Japan,Low,134800.0,383300.0,1.9,Limited,Medium,57.2,SOC2,2,3,1.0,Yes,No,Clear,604,High,High,74.8,0.1564,0.191,0.6526
+VEN20169,Clearway Holdings,Logistics,Mexico,Medium,184000.0,311900.0,1.2,No Access,Low,84.4,Not Certified,0,2,1.0,No,Yes,Clear,53,Low,Low,10.8,0.8259,0.1323,0.0418
+VEN20170,Nova Partners 2,Facilities & Maintenance,United Kingdom,Low,151600.0,177000.0,3.2,No Access,Medium,64.4,Not Certified,0,0,1.0,No,No,Clear,295,Low,Low,19.0,0.6737,0.273,0.0533
+VEN20171,Silverline Logistics,IT Services,Brazil,Medium,47100.0,26900.0,4.3,Limited,High,91.3,SOC2,1,1,0.931,No,Yes,Clear,74,Medium,Medium,47.1,0.2144,0.6291,0.1566
+VEN20172,Lighthouse Group,Cloud/SaaS,United Kingdom,Low,71800.0,131800.0,7.3,No Access,High,70.4,Not Certified,0,0,1.0,No,No,Clear,314,Medium,Medium,37.6,0.2914,0.6643,0.0443
+VEN20173,Outpost Systems 2,Staffing,South Africa,Medium,88100.0,215600.0,6.2,Limited,Medium,62.7,SOC2,2,0,0.956,No,Yes,Clear,14,Medium,Medium,40.0,0.3923,0.4157,0.192
+VEN20174,Sterling Dynamics 2,Staffing,United States,Low,245600.0,613500.0,21.4,Limited,Low,78.6,Both,0,1,0.991,No,Yes,Clear,25,Low,Low,9.7,0.8231,0.16,0.0169
+VEN20175,Lighthouse Industries,Marketing & Media,United Kingdom,Low,8000.0,9100.0,0.3,No Access,High,85.0,ISO27001,2,0,0.926,Yes,Yes,Clear,161,Medium,Medium,40.8,0.2416,0.6998,0.0586
+VEN20176,Bridgeline Industries,Payment Processing,United States,Low,372500.0,1057200.0,0.4,Limited,Low,59.6,ISO27001,1,0,0.857,No,No,Clear,69,Low,Low,17.9,0.7144,0.2131,0.0725
+VEN20177,Bridgeline Technologies,Staffing,Japan,Low,25100.0,46700.0,5.1,No Access,Low,68.6,Not Certified,0,1,0.805,No,Yes,Clear,87,Low,Low,15.7,0.707,0.2726,0.0204
+VEN20178,Sterling Logistics 2,Logistics,Germany,Low,895200.0,2888200.0,3.3,Full,Low,92.5,SOC2,0,1,0.951,No,Yes,Clear,22,Low,Low,7.6,0.8661,0.1149,0.019
+VEN20179,Pinnacle Solutions 2,Marketing & Media,Germany,Low,127700.0,269000.0,5.2,No Access,Low,58.5,SOC2,0,0,0.9,Yes,Yes,Clear,275,Low,Low,18.1,0.6817,0.2743,0.044
+VEN20180,Waypoint Technologies 2,Logistics,South Africa,Medium,552200.0,1298100.0,11.2,Limited,High,60.6,Both,0,0,0.94,No,Yes,Clear,184,Medium,Medium,48.4,0.2015,0.6293,0.1692
+VEN20181,Northgate Dynamics,Staffing,India,Medium,56600.0,97600.0,2.6,Limited,Low,74.9,ISO27001,0,0,0.994,No,Yes,Flagged,750,High,Low,49.0,0.3854,0.25,0.3646
+VEN20182,Sterling Logistics 3,Manufacturing,Mexico,Medium,539400.0,950600.0,0.5,Limited,High,55.5,SOC2,0,1,0.849,No,No,Clear,41,High,High,85.3,0.0759,0.1423,0.7818
+VEN20183,Brightline Systems,Cloud/SaaS,Germany,Low,119500.0,280400.0,0.5,No Access,Low,38.0,Not Certified,2,0,0.835,No,Yes,Clear,26,Low,Low,22.7,0.6493,0.2475,0.1032
+VEN20184,Clearway Solutions 2,Payment Processing,Brazil,Medium,119200.0,331500.0,0.6,Full,Medium,49.2,Not Certified,0,1,0.956,No,Yes,Clear,9,High,High,76.7,0.1316,0.2028,0.6656
+VEN20185,Redwood Labs,Marketing & Media,India,Medium,124700.0,361500.0,6.6,Limited,Low,77.8,SOC2,0,0,0.962,Yes,Yes,Clear,693,Medium,Medium,36.0,0.331,0.6184,0.0506
+VEN20186,Anchor Partners,Staffing,Philippines,Medium,8000.0,14000.0,4.2,Full,Medium,,ISO27001,0,0,0.924,Yes,Yes,Clear,387,Medium,Medium,47.6,0.3146,0.418,0.2675
+VEN20187,Trailhead Partners,Facilities & Maintenance,China,High,13400.0,17600.0,3.0,Limited,Low,80.8,SOC2,0,0,0.909,No,Yes,Clear,106,Low,Low,30.0,0.5276,0.3447,0.1278
+VEN20188,Beacon Group,Staffing,Mexico,Medium,11400.0,30300.0,1.6,Limited,High,78.0,Both,0,2,0.845,No,Yes,Clear,489,High,High,75.1,0.1183,0.2606,0.6211
+VEN20189,Northgate Industries,Manufacturing,Japan,Low,81200.0,272300.0,4.4,Limited,Low,55.3,ISO27001,1,1,0.935,No,Yes,Clear,126,Low,Low,17.7,0.678,0.2899,0.0322
+VEN20190,Keystone Partners,Facilities & Maintenance,United Kingdom,Low,57000.0,109600.0,6.0,No Access,Medium,82.0,SOC2,1,0,0.896,No,No,Clear,107,Medium,Medium,41.3,0.2696,0.6339,0.0964
+VEN20191,Meridian Industries 4,IT Services,China,High,190000.0,375500.0,3.2,Full,Medium,88.6,SOC2,0,1,0.966,No,Yes,Clear,105,Medium,Low,46.6,0.3651,0.3388,0.2961
+VEN20192,Brightline Industries,Facilities & Maintenance,Philippines,Medium,110600.0,217100.0,3.4,Limited,Medium,62.8,ISO27001,0,0,0.997,No,No,Clear,323,Low,Low,30.1,0.5778,0.2427,0.1795
+VEN20193,Vantage Co. 2,Payment Processing,Brazil,Medium,307700.0,797300.0,1.0,Limited,Low,85.7,ISO27001,0,1,0.907,No,No,Clear,270,Low,Low,17.8,0.7056,0.2333,0.0611
+VEN20194,Bridgeline Technologies 2,Marketing & Media,Canada,Low,32700.0,101100.0,3.3,Limited,Low,67.4,ISO27001,0,2,0.965,No,Yes,Clear,217,Low,Low,18.9,0.6476,0.3261,0.0263
+VEN20195,Bridgeline Global,Staffing,Japan,Low,110400.0,173000.0,1.2,Full,High,75.2,SOC2,2,0,0.951,Yes,Yes,Clear,83,High,High,71.5,0.1891,0.1922,0.6188
+VEN20196,Northgate Enterprises 2,Financial Services,China,High,41300.0,110400.0,0.8,Limited,Low,77.7,SOC2,0,0,0.982,Yes,Yes,Clear,39,Medium,Medium,42.7,0.1963,0.7526,0.0511
+VEN20197,Bridgeline Industries 2,Payment Processing,United Kingdom,Low,19200.0,66800.0,5.8,No Access,Low,51.7,Not Certified,0,0,1.0,No,Yes,Clear,51,Low,Low,8.2,0.8527,0.1303,0.017
+VEN20198,Waypoint Consulting 2,IT Services,Brazil,Medium,9500.0,26600.0,6.0,Full,High,93.1,Not Certified,2,0,0.98,No,No,Clear,595,High,High,82.0,0.0787,0.2023,0.719
+VEN20199,Cascade Partners,Payment Processing,India,Medium,65300.0,111500.0,1.0,Limited,High,60.6,SOC2,0,1,0.983,Yes,Yes,Clear,133,High,High,84.8,0.0873,0.1292,0.7835
+VEN20200,Trailhead Enterprises 3,Manufacturing,Canada,Low,25100.0,29100.0,0.7,Limited,Medium,71.1,Not Certified,0,1,0.988,No,Yes,Clear,204,Low,Low,20.5,0.6789,0.2319,0.0892
+VEN20201,Ironwood Holdings,IT Services,Germany,Low,39300.0,92700.0,7.0,Limited,Medium,65.6,Not Certified,0,0,0.915,No,Yes,Clear,353,Medium,Medium,38.0,0.3494,0.5411,0.1095
+VEN20202,Waypoint Industries 2,Facilities & Maintenance,United States,Low,24000.0,82000.0,0.9,No Access,High,79.0,SOC2,1,1,0.94,No,Yes,Clear,60,Medium,Medium,35.2,0.4018,0.4934,0.1048
+VEN20203,Pinnacle Labs,Financial Services,Poland,Medium,20500.0,60900.0,3.0,Full,Low,78.6,SOC2,0,0,0.961,Yes,Yes,Clear,110,Medium,Medium,32.8,0.39,0.5634,0.0466
+VEN20204,Summit Logistics,Manufacturing,Philippines,Medium,1876300.0,6547100.0,0.4,Full,Low,72.9,ISO27001,1,0,1.0,No,Yes,Clear,412,Low,Low,10.4,0.838,0.115,0.047
+VEN20205,Sterling Co.,Payment Processing,United States,Low,76000.0,155000.0,4.1,Limited,Low,92.4,Not Certified,0,0,1.0,No,Yes,Clear,292,Low,Low,11.0,0.7988,0.1826,0.0186
+VEN20206,Momentum Holdings 2,IT Services,United Kingdom,Low,15900.0,37900.0,1.4,No Access,Medium,76.5,ISO27001,1,0,1.0,No,Yes,Clear,304,Low,Low,9.7,0.8432,0.1186,0.0381
+VEN20207,Summit Labs,Facilities & Maintenance,Philippines,Medium,57600.0,97200.0,3.9,Full,Medium,67.0,Both,0,0,0.875,No,Yes,Clear,1217,High,High,67.8,0.1851,0.2735,0.5415
+VEN20208,Brightline Holdings 2,Manufacturing,Canada,Low,73700.0,204800.0,1.0,Full,High,32.2,SOC2,0,2,0.938,Yes,Yes,Clear,32,High,High,82.3,0.1149,0.1249,0.7602
+VEN20209,Sterling Global,Financial Services,India,Medium,13100.0,28600.0,2.8,Full,Low,68.6,Both,0,1,0.837,No,Yes,Clear,120,Medium,Medium,37.0,0.399,0.4613,0.1397
+VEN20210,Sterling Networks,Financial Services,Brazil,Medium,243700.0,415900.0,0.7,Full,High,68.5,Not Certified,1,1,0.908,No,Yes,Clear,142,High,High,79.9,0.1061,0.1894,0.7045
+VEN20211,Waypoint Technologies 3,IT Services,India,Medium,24600.0,49900.0,3.9,No Access,Medium,60.4,Not Certified,0,0,0.842,Yes,Yes,Clear,221,Low,Low,32.4,0.5269,0.2976,0.1755
+VEN20212,Nova Holdings 2,Financial Services,United States,Low,130700.0,365100.0,8.3,Limited,Medium,60.5,Not Certified,0,0,1.0,Yes,Yes,Flagged,351,High,High,84.3,0.0939,0.1267,0.7794
+VEN20213,Brightline Solutions,Payment Processing,China,High,41700.0,127100.0,4.1,Full,Low,80.9,SOC2,0,0,0.985,Yes,Yes,Clear,38,Low,Low,26.1,0.5456,0.3865,0.0679
+VEN20214,Meridian Labs,Cloud/SaaS,Philippines,Medium,27800.0,82600.0,3.1,Limited,Low,87.2,SOC2,0,0,0.876,No,No,Clear,174,Low,Low,26.3,0.5599,0.3547,0.0853
+VEN20215,Meridian Dynamics 2,IT Services,India,Medium,2964800.0,12493100.0,7.0,No Access,Low,99.1,SOC2,1,1,0.96,No,Yes,Clear,1285,Low,Low,14.0,0.7752,0.1702,0.0546
+VEN20216,Vantage Co. 3,IT Services,United Kingdom,Low,34600.0,102200.0,3.4,Limited,Low,88.6,Not Certified,0,0,0.984,No,Yes,Clear,87,Low,Low,14.2,0.7396,0.2375,0.0229
+VEN20217,Atlas Solutions,Financial Services,India,Medium,12000.0,19400.0,3.5,No Access,Medium,62.7,Not Certified,0,1,1.0,No,Yes,Clear,104,Low,Low,22.2,0.6752,0.2065,0.1183
+VEN20218,Outpost Consulting 2,Consulting,Germany,Low,38300.0,123200.0,2.4,No Access,Medium,76.2,ISO27001,0,0,0.99,No,Yes,Clear,382,Low,Low,7.9,0.8639,0.1149,0.0213
+VEN20219,Summit Solutions 2,IT Services,United States,Low,22000.0,36800.0,0.7,Full,High,53.5,Both,1,1,0.948,No,Yes,Clear,13,High,High,77.0,0.1517,0.1558,0.6926
+VEN20220,Trailhead Consulting,Consulting,United States,Low,245600.0,362100.0,0.2,Full,Low,82.8,Not Certified,0,1,0.935,No,Yes,Clear,55,Low,Low,12.7,0.7735,0.1999,0.0266
+VEN20221,Apex Co.,Financial Services,United States,Low,115400.0,338400.0,4.9,Limited,Medium,,ISO27001,0,1,0.978,Yes,Yes,Clear,66,Low,Low,23.8,0.5981,0.3284,0.0735
+VEN20222,Redwood Global 2,IT Services,Canada,Low,17600.0,33200.0,5.1,Limited,Medium,64.0,SOC2,0,0,0.958,No,Yes,Clear,246,Low,Low,12.3,0.7852,0.1832,0.0316
+VEN20223,Nova Group,Manufacturing,United Kingdom,Low,537000.0,1269300.0,5.2,Limited,High,71.1,ISO27001,1,3,0.912,No,Yes,Clear,14,Medium,Low,41.9,0.4414,0.2791,0.2794
+VEN20224,Outpost Networks,Cloud/SaaS,Mexico,Medium,53200.0,104000.0,0.6,Limited,Medium,69.1,ISO27001,0,2,0.867,No,Yes,Clear,67,Medium,Medium,47.2,0.2706,0.514,0.2153
+VEN20225,Union Dynamics 2,Marketing & Media,India,Medium,15200.0,33600.0,2.4,No Access,Medium,63.7,ISO27001,1,0,1.0,No,Yes,Clear,79,Low,Low,14.1,0.7739,0.1702,0.0558
+VEN20226,Redwood Networks,Facilities & Maintenance,India,Medium,245700.0,239300.0,15.5,No Access,Medium,91.1,Both,1,0,0.897,No,Yes,Clear,5,Low,Low,19.7,0.6927,0.2205,0.0868
+VEN20227,Fulcrum Industries 2,Logistics,Brazil,Medium,148300.0,456900.0,4.7,Limited,Low,100.0,Not Certified,1,1,0.924,Yes,Yes,Clear,265,Medium,Medium,33.1,0.4441,0.4498,0.1062
+VEN20228,Apex Global,Cloud/SaaS,United States,Low,21300.0,71200.0,5.2,Limited,High,84.1,Both,0,0,0.988,No,Yes,Clear,255,Low,Low,12.4,0.7956,0.1613,0.0431
+VEN20229,Fulcrum Systems 2,Payment Processing,Germany,Low,18600.0,40400.0,10.9,No Access,High,87.4,Not Certified,0,0,0.937,No,Yes,Clear,261,Low,Low,15.2,0.7449,0.2063,0.0488
+VEN20230,Keystone Holdings,Staffing,United States,Low,57600.0,193800.0,20.6,No Access,Medium,74.8,ISO27001,2,0,1.0,Yes,Yes,Clear,158,Low,Low,24.7,0.6084,0.2902,0.1015
+VEN20231,Meridian Consulting 2,Manufacturing,Ireland,Low,31700.0,96900.0,1.4,No Access,Low,67.7,Not Certified,0,0,0.873,No,Yes,Flagged,10,Medium,Medium,50.6,0.2124,0.564,0.2236
+VEN20232,Vertex Solutions 2,Manufacturing,United States,Low,130600.0,434500.0,2.2,No Access,Low,100.0,Not Certified,0,0,0.986,No,Yes,Clear,437,Low,Low,8.8,0.8348,0.155,0.0101
+VEN20233,Sterling Group 2,Staffing,United States,Low,95900.0,340800.0,9.3,Full,Low,67.5,SOC2,0,1,0.861,No,Yes,Clear,149,Low,Low,22.0,0.5972,0.3654,0.0374
+VEN20234,Sterling Dynamics 3,Consulting,United States,Low,17300.0,24000.0,1.8,No Access,Low,78.1,Not Certified,0,0,0.851,No,Yes,Clear,448,Low,Low,12.5,0.771,0.2072,0.0219
+VEN20235,Meridian Systems,IT Services,Germany,Low,19600.0,59300.0,4.7,Limited,Low,70.9,Both,0,0,0.878,No,Yes,Clear,35,Low,Low,17.1,0.6912,0.276,0.0327
+VEN20236,Redwood Technologies,Cloud/SaaS,Philippines,Medium,51600.0,116400.0,3.6,Limited,High,80.9,Not Certified,0,2,0.947,Yes,No,Clear,5,High,High,84.8,0.0911,0.1221,0.7869
+VEN20237,Vertex Group,Manufacturing,United Kingdom,Low,311900.0,929800.0,0.4,No Access,Low,71.9,SOC2,1,1,0.9,No,Yes,Clear,216,Low,Low,7.7,0.8582,0.1292,0.0125
+VEN20238,Redwood Partners 3,Financial Services,Philippines,Medium,32800.0,70900.0,11.6,Limited,Low,80.9,SOC2,0,0,0.858,No,Yes,Clear,599,Low,Low,34.6,0.443,0.4229,0.1341
+VEN20239,Anchor Networks,IT Services,Canada,Low,138400.0,557400.0,0.6,Limited,Low,54.9,Both,0,0,1.0,No,Yes,Clear,36,Low,Low,11.0,0.8152,0.1501,0.0347
+VEN20240,Fulcrum Networks 3,IT Services,United Kingdom,Low,32500.0,120500.0,2.9,No Access,Low,71.2,Both,0,0,0.883,No,Yes,Clear,60,Low,Low,9.9,0.8223,0.1569,0.0207
+VEN20241,Vertex Holdings,Cloud/SaaS,Australia,Low,114200.0,270600.0,3.6,Full,Medium,91.8,SOC2,0,0,0.933,Yes,No,Flagged,299,High,High,84.4,0.1127,0.0865,0.8008
+VEN20242,Waypoint Industries 3,Manufacturing,United States,Low,35400.0,96800.0,17.3,Limited,Low,58.1,Not Certified,0,0,0.955,Yes,No,Clear,15,Medium,Medium,38.3,0.3057,0.6231,0.0712
+VEN20243,Bridgeline Partners,Staffing,Japan,Low,112200.0,287800.0,9.4,No Access,High,63.3,Not Certified,0,0,0.912,No,Yes,Clear,251,Medium,Low,30.8,0.5181,0.3482,0.1338
+VEN20244,Apex Networks 2,Facilities & Maintenance,India,Medium,24300.0,62800.0,5.8,Full,Medium,91.8,ISO27001,0,0,0.962,No,Yes,Clear,10,Low,Low,29.1,0.6004,0.2182,0.1814
+VEN20245,Pinnacle Group,IT Services,Brazil,Medium,28800.0,90000.0,3.2,No Access,High,78.3,Not Certified,2,0,0.977,No,Yes,Clear,65,Medium,Medium,53.8,0.1462,0.6306,0.2232
+VEN20246,Redwood Systems,IT Services,United States,Low,649700.0,1043000.0,4.0,Limited,High,87.6,Both,0,0,0.934,No,No,Clear,106,Low,Medium,38.3,0.3961,0.4425,0.1614
+VEN20247,Cascade Technologies 2,Financial Services,Brazil,Medium,200500.0,249700.0,3.4,Limited,Medium,41.3,Both,1,2,1.0,Yes,Yes,Clear,266,High,Medium,48.6,0.2926,0.4421,0.2654
+VEN20248,Crestview Systems,Payment Processing,India,Medium,15900.0,52200.0,1.3,No Access,Low,74.6,ISO27001,0,1,0.905,Yes,Yes,Clear,230,Low,Low,18.6,0.6732,0.2808,0.046
+VEN20249,Apex Technologies,Consulting,India,Medium,268000.0,712800.0,2.2,Limited,Low,54.7,Both,0,1,0.877,No,No,Clear,95,Low,Low,26.4,0.5785,0.315,0.1065
+VEN20250,Bridgeline Global 2,Manufacturing,United States,Low,56000.0,113200.0,3.4,Limited,Low,53.1,SOC2,1,0,0.952,No,Yes,Clear,296,Low,Low,18.8,0.6552,0.314,0.0307
+VEN20251,Trailhead Industries 3,Payment Processing,China,High,328600.0,605500.0,1.8,Limited,Medium,78.3,Both,0,0,0.882,No,Yes,Clear,128,Low,Low,31.1,0.5517,0.2754,0.1729
+VEN20252,Redwood Group 2,Consulting,United Kingdom,Low,14300.0,17100.0,0.2,No Access,Low,89.2,Not Certified,1,0,0.963,Yes,Yes,Clear,393,Low,Low,12.8,0.7689,0.2068,0.0243
+VEN20253,Northgate Industries 2,Manufacturing,India,Medium,60500.0,130600.0,0.7,Limited,Medium,51.6,Not Certified,0,0,0.934,No,Yes,Clear,148,High,High,72.4,0.1755,0.2002,0.6243
+VEN20254,Ironwood Technologies,Staffing,India,Medium,41100.0,41100.0,3.4,Limited,Low,57.1,SOC2,0,1,0.912,No,No,Clear,131,Medium,Medium,41.8,0.2625,0.6391,0.0984
+VEN20255,Crestview Systems 2,Manufacturing,China,High,29900.0,74500.0,6.8,Limited,Medium,64.4,Both,0,0,0.975,Yes,Yes,Clear,79,High,High,72.8,0.1421,0.2603,0.5976
+VEN20256,Pinnacle Group 2,Cloud/SaaS,Mexico,Medium,17500.0,45600.0,2.4,No Access,Medium,70.8,Not Certified,2,1,0.972,No,Yes,Clear,92,Medium,Medium,40.9,0.2676,0.6458,0.0866
+VEN20257,Pinnacle Global,Facilities & Maintenance,Venezuela,High,651300.0,1197100.0,4.0,No Access,Low,53.9,Both,1,2,0.763,No,Yes,Clear,70,Medium,Medium,42.7,0.2009,0.7446,0.0546
+VEN20258,Atlas Solutions 2,IT Services,Canada,Low,67400.0,214600.0,4.6,Full,Low,100.0,SOC2,0,1,0.921,Yes,Yes,Clear,22,Low,Low,20.1,0.6486,0.3002,0.0511
+VEN20259,Union Partners 2,Marketing & Media,Mexico,Medium,47000.0,139800.0,0.2,No Access,Low,80.8,Both,0,0,0.948,No,Yes,Clear,28,Low,Low,17.0,0.711,0.2381,0.0509
+VEN20260,Momentum Technologies 3,Staffing,India,Medium,9900.0,25000.0,22.0,Limited,High,67.5,Both,0,1,0.969,No,Yes,Clear,391,Medium,Medium,49.4,0.1858,0.6404,0.1738
+VEN20261,Silverline Co.,Consulting,India,Medium,251500.0,444100.0,0.7,Limited,Medium,,Both,0,0,0.908,No,No,Clear,20,Medium,Medium,45.4,0.2583,0.5762,0.1655
+VEN20262,Northgate Holdings,Manufacturing,Mexico,Medium,253400.0,465700.0,0.2,Full,Low,100.0,SOC2,0,1,0.872,No,Yes,Clear,90,Low,Low,16.5,0.7181,0.2331,0.0488
+VEN20263,Atlas Global,IT Services,India,Medium,56200.0,90100.0,13.0,No Access,Low,100.0,Not Certified,0,1,0.948,Yes,Yes,Clear,21,Low,Low,15.4,0.7312,0.2302,0.0386
+VEN20264,Keystone Enterprises 2,Payment Processing,United Kingdom,Low,13800.0,10800.0,0.2,Full,Low,65.6,SOC2,0,0,0.981,Yes,No,Clear,11,Medium,Low,29.4,0.4978,0.4172,0.085
+VEN20265,Sterling Networks 2,Payment Processing,Mexico,Medium,133600.0,314800.0,8.1,No Access,Low,77.4,SOC2,0,2,0.817,Yes,Yes,Clear,179,Low,Low,17.5,0.6846,0.2801,0.0353
+VEN20266,Fulcrum Industries 3,Consulting,United States,Low,68700.0,201300.0,1.4,No Access,Medium,90.2,ISO27001,0,2,0.85,No,Yes,Clear,136,Low,Low,13.5,0.7741,0.1826,0.0434
+VEN20267,Outpost Technologies,Facilities & Maintenance,Australia,Low,12600.0,14200.0,1.2,Limited,Medium,55.8,SOC2,0,0,0.905,No,Yes,Clear,207,Low,Low,15.6,0.7539,0.1808,0.0653
+VEN20268,Bridgeline Group 2,Marketing & Media,Japan,Low,785400.0,2062600.0,1.4,No Access,High,64.2,SOC2,0,0,0.785,No,Yes,Clear,45,Low,Low,36.4,0.4685,0.3358,0.1957
+VEN20269,Silverline Systems,Manufacturing,Canada,Low,161100.0,344600.0,1.8,Limited,High,91.4,SOC2,1,1,0.904,Yes,Yes,Clear,89,Low,Low,26.9,0.6066,0.2495,0.1439
+VEN20270,Vantage Group 2,Cloud/SaaS,India,Medium,21700.0,52600.0,0.4,Limited,Medium,62.7,ISO27001,2,0,0.989,No,Yes,Clear,88,Medium,Low,39.9,0.4257,0.3511,0.2232
+VEN20271,Pinnacle Networks,Logistics,Poland,Medium,26800.0,77900.0,3.2,No Access,Low,66.4,Not Certified,0,1,0.876,No,Yes,Clear,753,Medium,Medium,40.6,0.259,0.6709,0.0702
+VEN20272,Nova Group 2,Staffing,United States,Low,172700.0,530100.0,2.3,Full,Medium,53.5,SOC2,0,0,0.948,No,Yes,Clear,130,Medium,Medium,37.0,0.356,0.5477,0.0963
+VEN20273,Ironwood Holdings 2,Logistics,United Kingdom,Low,278400.0,496300.0,0.3,Limited,Low,61.7,Both,0,1,0.887,No,Yes,Clear,85,Low,Low,14.5,0.7515,0.2074,0.0411
+VEN20274,Vantage Systems 2,Marketing & Media,United States,Low,139000.0,406600.0,0.4,Full,Medium,82.0,Not Certified,0,1,0.965,No,Yes,Clear,359,Medium,Low,32.0,0.5085,0.3422,0.1493
+VEN20275,Clearway Solutions 3,Financial Services,India,Medium,128800.0,256300.0,0.7,No Access,High,60.8,SOC2,0,1,0.979,No,Yes,Clear,84,Low,High,60.2,0.3009,0.1949,0.5042
+VEN20276,Trailhead Consulting 2,Manufacturing,United States,Low,45500.0,22800.0,3.8,No Access,Medium,54.0,ISO27001,1,1,1.0,Yes,Yes,Clear,367,Medium,Low,26.1,0.6216,0.235,0.1434
+VEN20277,Bridgeline Solutions,Consulting,Canada,Low,794900.0,3143100.0,5.9,Limited,Low,63.5,ISO27001,0,1,0.944,No,Yes,Clear,90,Low,Low,13.1,0.7598,0.218,0.0222
+VEN20278,Anchor Networks 2,Cloud/SaaS,Japan,Low,51600.0,121200.0,4.4,No Access,Medium,97.2,SOC2,0,0,1.0,No,Yes,Clear,50,Low,Low,8.4,0.8432,0.1458,0.0109
+VEN20279,Clearway Holdings 2,Financial Services,Japan,Low,93200.0,192100.0,1.8,Limited,High,74.8,Not Certified,0,0,0.964,No,Yes,Clear,70,Low,Low,26.8,0.581,0.3019,0.1171
+VEN20280,Ironwood Dynamics,Cloud/SaaS,United States,Low,112400.0,381700.0,3.1,Full,Low,64.4,Both,1,0,0.912,No,Yes,Clear,163,Medium,Medium,30.8,0.42,0.5441,0.0359
+VEN20281,Ironwood Technologies 2,Consulting,Nigeria,High,52000.0,139500.0,5.5,No Access,High,74.4,Both,0,0,1.0,No,No,Clear,176,Medium,Medium,49.8,0.1756,0.6537,0.1707
+VEN20282,Union Partners 3,Financial Services,Canada,Low,179300.0,334100.0,2.0,No Access,Low,78.5,ISO27001,0,1,0.904,Yes,No,Clear,84,Low,Low,15.4,0.7295,0.2333,0.0372
+VEN20283,Pinnacle Holdings,Logistics,Mexico,Medium,442200.0,1098500.0,8.5,No Access,Medium,74.0,ISO27001,0,1,0.95,No,Yes,Clear,94,Low,Low,18.9,0.693,0.236,0.0709
+VEN20284,Momentum Holdings 3,Cloud/SaaS,Canada,Low,8000.0,20600.0,0.7,Limited,Medium,46.8,Both,0,1,1.0,No,Yes,Clear,428,Low,Low,18.8,0.7236,0.1771,0.0993
+VEN20285,Cascade Group,Facilities & Maintenance,India,Medium,56900.0,122500.0,2.7,Full,Medium,76.4,Both,0,2,0.992,No,Yes,Clear,1005,Medium,Medium,48.2,0.257,0.5222,0.2208
+VEN20286,Zenith Systems,Manufacturing,Germany,Low,315500.0,157800.0,6.0,Full,Low,69.2,SOC2,1,2,0.891,Yes,Yes,Clear,55,High,Low,29.6,0.5023,0.404,0.0937
+VEN20287,Brightline Partners,IT Services,United Kingdom,Low,377300.0,917800.0,4.3,Limited,Low,84.1,SOC2,0,0,0.958,No,Yes,Clear,194,Low,Low,8.8,0.8329,0.1582,0.0089
+VEN20288,Beacon Systems,IT Services,Australia,Low,42400.0,65900.0,8.9,No Access,Medium,53.1,SOC2,0,1,0.907,No,Yes,Clear,550,Low,Low,15.4,0.7439,0.2044,0.0517
+VEN20289,Ironwood Dynamics 2,Manufacturing,India,Medium,160600.0,235800.0,5.5,No Access,Low,86.9,Not Certified,1,0,0.931,No,Yes,Clear,164,Low,Low,15.1,0.7386,0.2204,0.041
+VEN20290,Clearway Logistics 2,Facilities & Maintenance,India,Medium,91600.0,214900.0,4.2,No Access,Low,65.2,Not Certified,0,1,0.85,No,Yes,Clear,63,Low,Low,25.0,0.5708,0.3587,0.0705
+VEN20291,Keystone Consulting,Financial Services,Poland,Medium,87100.0,351800.0,4.2,No Access,Medium,48.1,ISO27001,2,1,0.953,Yes,Yes,Clear,34,Medium,Medium,45.4,0.2141,0.6637,0.1222
+VEN20292,Cascade Solutions,Payment Processing,United Kingdom,Low,35300.0,47500.0,8.8,Full,Medium,90.9,ISO27001,1,0,0.847,No,Yes,Clear,533,Low,Low,20.0,0.7069,0.186,0.1071
+VEN20293,Silverline Co. 2,Consulting,United States,Low,237600.0,607300.0,2.6,Limited,Low,64.9,ISO27001,0,0,0.962,No,Yes,Clear,970,Low,Low,15.2,0.7354,0.2256,0.039
+VEN20294,Lighthouse Dynamics,Consulting,United Kingdom,Low,298600.0,333200.0,0.4,No Access,Medium,77.4,SOC2,0,0,0.962,Yes,Yes,Clear,236,Low,Low,14.7,0.7603,0.1847,0.055
+VEN20295,Northgate Holdings 2,Staffing,United Kingdom,Low,475200.0,481000.0,4.1,Limited,Medium,69.8,Not Certified,0,1,0.991,Yes,Yes,Clear,105,Medium,Medium,37.7,0.3302,0.5866,0.0832
+VEN20296,Union Group,Financial Services,Mexico,Medium,100900.0,202900.0,1.1,Limited,Medium,87.5,SOC2,0,0,1.0,No,Yes,Clear,189,Low,Low,27.8,0.5901,0.2629,0.147
+VEN20297,Anchor Global,Financial Services,Ireland,Low,86900.0,264700.0,15.5,No Access,High,87.6,Both,1,0,0.841,No,Yes,Clear,217,Low,Low,12.6,0.7895,0.1689,0.0416
+VEN20298,Momentum Consulting,Manufacturing,United Kingdom,Low,277600.0,702700.0,4.7,Full,Medium,87.8,Both,0,0,0.868,No,No,Clear,36,Medium,Medium,37.6,0.3136,0.6201,0.0663
+VEN20299,Pinnacle Logistics 3,Manufacturing,United States,Low,3573900.0,9049900.0,0.4,Full,Medium,82.1,Not Certified,0,0,0.88,No,Yes,Clear,5,Low,Low,24.9,0.6461,0.2091,0.1448
+VEN20300,Brightline Solutions 2,IT Services,India,Medium,57000.0,187500.0,4.2,No Access,Low,49.3,SOC2,1,3,0.906,No,Yes,Clear,81,Medium,Medium,38.6,0.2716,0.6842,0.0442
+VEN20301,Crestview Logistics,Staffing,United States,Low,67600.0,182400.0,4.6,Full,Low,48.3,Not Certified,0,0,0.993,Yes,Yes,Clear,396,Low,Low,18.6,0.6689,0.2894,0.0417
+VEN20302,Crestview Industries,Cloud/SaaS,India,Medium,585600.0,1073600.0,10.4,Limited,Low,74.9,SOC2,0,0,0.92,No,Yes,Clear,263,Low,Low,15.7,0.7088,0.2677,0.0235
+VEN20303,Anchor Group,IT Services,Poland,Medium,20000.0,30800.0,21.9,Limited,Low,58.6,SOC2,0,1,0.905,No,Yes,Clear,443,Medium,Medium,35.1,0.4013,0.4952,0.1035
+VEN20304,Northgate Global,Financial Services,Mexico,Medium,8000.0,16500.0,3.4,Limited,Medium,78.6,Not Certified,1,0,0.872,No,Yes,Clear,115,High,High,72.3,0.1679,0.2172,0.6149
+VEN20305,Waypoint Labs,Marketing & Media,United States,Low,237400.0,614100.0,2.5,Limited,Low,74.3,Both,0,2,0.902,No,Yes,Clear,156,Low,Low,22.5,0.6168,0.3166,0.0665
+VEN20306,Keystone Industries,Manufacturing,Germany,Low,384700.0,784800.0,0.7,Limited,Medium,52.1,Not Certified,1,2,0.914,No,Yes,Clear,59,High,High,71.4,0.1967,0.1784,0.6249
+VEN20307,Zenith Labs 2,Manufacturing,Nigeria,High,355200.0,750000.0,9.4,No Access,High,57.4,SOC2,1,0,0.934,No,Yes,Clear,5,High,High,81.1,0.1129,0.1529,0.7342
+VEN20308,Brightline Labs,Marketing & Media,United States,Low,245000.0,453700.0,4.6,Full,Low,56.0,Not Certified,0,1,0.854,No,Yes,Clear,5,Low,Low,25.0,0.5717,0.3574,0.0709
+VEN20309,Keystone Enterprises 3,Cloud/SaaS,Poland,Medium,273400.0,452700.0,8.8,Limited,Low,59.5,SOC2,0,0,0.935,No,Yes,Clear,231,Medium,Medium,29.4,0.453,0.5069,0.0401
+VEN20310,Trailhead Holdings 2,IT Services,Japan,Low,34000.0,45500.0,10.1,Limited,Medium,69.1,ISO27001,0,1,0.974,No,Yes,Clear,8,Low,Low,15.7,0.7599,0.1661,0.074
+VEN20311,Northgate Consulting,Facilities & Maintenance,Mexico,Medium,258400.0,429800.0,0.9,Full,Low,81.6,Not Certified,0,2,0.961,No,Yes,Clear,15,Low,Low,17.5,0.7266,0.1976,0.0758
+VEN20312,Sterling Co. 2,Financial Services,Germany,Low,23900.0,89300.0,0.5,Limited,Low,90.9,SOC2,0,2,0.865,Yes,Yes,Clear,286,Low,Low,22.2,0.5951,0.366,0.0388
+VEN20313,Brightline Consulting,Payment Processing,United States,Low,12300.0,39000.0,5.0,Full,Medium,58.3,SOC2,0,0,0.989,No,Yes,Clear,37,Low,Low,18.2,0.7236,0.1894,0.0871
+VEN20314,Northgate Co.,Manufacturing,India,Medium,58600.0,200300.0,8.5,Limited,Low,64.0,SOC2,0,0,0.988,Yes,Yes,Clear,37,Low,Low,25.4,0.5533,0.3847,0.062
+VEN20315,Crestview Co.,Staffing,United States,Low,16900.0,40500.0,2.5,Limited,High,,SOC2,1,0,0.958,No,Yes,Clear,63,Low,Low,19.7,0.6948,0.2172,0.088
+VEN20316,Clearway Technologies,IT Services,South Africa,Medium,21000.0,46300.0,6.2,No Access,Medium,84.6,ISO27001,0,1,0.866,No,No,Clear,123,Medium,Medium,43.0,0.2716,0.5964,0.1319
+VEN20317,Redwood Partners 4,IT Services,Brazil,Medium,35500.0,105100.0,15.1,No Access,Medium,75.3,Not Certified,1,1,0.852,No,No,Clear,14,High,High,73.5,0.1542,0.2209,0.6249
+VEN20318,Fulcrum Logistics 2,Facilities & Maintenance,Germany,Low,46400.0,92900.0,3.7,No Access,Low,38.8,Not Certified,1,1,0.942,No,No,Clear,45,High,High,65.7,0.2347,0.2158,0.5495
+VEN20319,Vertex Group 2,Cloud/SaaS,India,Medium,89200.0,287600.0,1.8,No Access,Low,57.7,ISO27001,1,0,0.878,Yes,Yes,Clear,5,Medium,Medium,39.2,0.2705,0.6748,0.0547
+VEN20320,Waypoint Group 2,IT Services,India,Medium,22800.0,55000.0,7.8,Limited,High,74.2,Not Certified,1,2,0.86,Yes,Yes,Clear,226,High,High,67.9,0.1371,0.3688,0.4941
+VEN20321,Redwood Holdings,IT Services,Venezuela,High,37300.0,109800.0,5.0,No Access,Medium,63.6,Both,0,1,0.993,Yes,Yes,Clear,25,Low,Medium,49.6,0.3133,0.3808,0.3059
+VEN20322,Fulcrum Co.,Manufacturing,United States,Low,62400.0,104900.0,3.2,Full,High,100.0,Both,0,1,0.994,No,Yes,Clear,68,Low,Low,17.6,0.7579,0.1315,0.1106
+VEN20323,Clearway Co.,Logistics,United Kingdom,Low,89800.0,338500.0,7.8,Limited,Low,73.2,SOC2,1,1,0.978,Yes,Yes,Clear,128,Medium,Low,21.4,0.6172,0.3368,0.046
+VEN20324,Pinnacle Industries,Facilities & Maintenance,Ireland,Low,129600.0,320600.0,0.6,Limited,Low,76.0,Not Certified,0,0,1.0,No,Yes,Clear,92,Low,Low,9.6,0.8265,0.1555,0.0179
+VEN20325,Apex Co. 2,Payment Processing,Philippines,Medium,183000.0,520400.0,2.5,Full,Medium,56.4,SOC2,0,2,0.994,No,Yes,Clear,49,Medium,Medium,47.2,0.2184,0.6188,0.1627
+VEN20326,Crestview Logistics 2,Manufacturing,Philippines,Medium,97400.0,166300.0,0.6,Full,Low,57.2,SOC2,0,1,0.871,No,Yes,Clear,275,Low,Low,28.8,0.5553,0.3139,0.1308
+VEN20327,Vertex Partners,Cloud/SaaS,Ireland,Low,126400.0,221500.0,1.5,Full,Low,62.5,ISO27001,2,0,1.0,No,Yes,Clear,104,Low,Low,23.7,0.5964,0.3332,0.0704
+VEN20328,Bridgeline Enterprises,Facilities & Maintenance,United States,Low,163100.0,468300.0,17.1,Full,Low,63.1,Both,0,0,0.947,Yes,No,Clear,52,Medium,Medium,31.4,0.4473,0.4774,0.0752
+VEN20329,Fulcrum Enterprises,IT Services,Mexico,Medium,73300.0,72300.0,14.1,Limited,Medium,68.6,SOC2,0,0,0.966,No,Yes,Clear,258,Low,Low,30.4,0.5314,0.3299,0.1387
+VEN20330,Clearway Logistics 3,Manufacturing,Ireland,Low,92400.0,305700.0,0.8,No Access,Low,77.2,Not Certified,0,0,1.0,Yes,Yes,Clear,14,Low,Low,9.5,0.823,0.1635,0.0135
+VEN20331,Pinnacle Labs 2,Logistics,United States,Low,25900.0,47400.0,4.5,Full,Medium,75.3,SOC2,0,1,0.966,No,Yes,Clear,273,Low,Low,21.3,0.6704,0.2322,0.0974
+VEN20332,Horizon Partners 3,Manufacturing,Mexico,Medium,97700.0,301300.0,5.8,No Access,Medium,86.1,Both,0,0,1.0,Yes,Yes,Clear,43,Low,Low,13.2,0.7943,0.1481,0.0576
+VEN20333,Northgate Co. 2,IT Services,Japan,Low,234300.0,417200.0,2.7,Full,Low,52.8,Not Certified,1,0,0.943,No,Yes,Clear,509,Medium,Medium,38.6,0.2947,0.639,0.0662
+VEN20334,Trailhead Logistics 2,Facilities & Maintenance,United Kingdom,Low,34700.0,78800.0,4.2,Limited,Medium,74.9,Not Certified,1,1,0.917,No,Yes,Clear,172,Medium,Medium,40.1,0.3489,0.5001,0.151
+VEN20335,Cascade Partners 2,Facilities & Maintenance,United Kingdom,Low,345700.0,821200.0,4.4,No Access,Medium,75.3,Not Certified,0,1,0.898,Yes,Yes,Flagged,423,High,High,84.5,0.0952,0.1189,0.7859
+VEN20336,Keystone Co. 2,Staffing,India,Medium,41000.0,124800.0,2.4,Limited,Low,94.4,ISO27001,0,0,0.932,Yes,Yes,Clear,296,Low,Low,23.6,0.598,0.3318,0.0703
+VEN20337,Keystone Solutions,Consulting,United Kingdom,Low,261500.0,423500.0,1.8,Limited,Medium,68.9,SOC2,0,0,0.839,Yes,Yes,Clear,267,Medium,Medium,36.3,0.3335,0.6071,0.0594
+VEN20338,Outpost Systems 3,Logistics,Germany,Low,526400.0,1448500.0,1.5,Full,Low,76.6,Both,1,0,0.936,No,Yes,Clear,229,Low,Low,10.9,0.8227,0.1373,0.04
+VEN20339,Trailhead Co.,Marketing & Media,Nigeria,High,97400.0,247800.0,6.1,Full,High,60.4,ISO27001,0,0,0.933,No,No,Clear,394,High,High,88.0,0.0542,0.1315,0.8143
+VEN20340,Vantage Holdings 2,Manufacturing,Australia,Low,47400.0,138900.0,8.9,Limited,Medium,77.9,ISO27001,0,0,0.908,No,Yes,Clear,69,Low,Low,17.2,0.7219,0.2132,0.0649
+VEN20341,Crestview Technologies 2,Cloud/SaaS,United Kingdom,Low,126000.0,206000.0,11.2,No Access,Low,,ISO27001,0,1,0.806,Yes,Yes,Clear,147,Low,Low,14.5,0.7218,0.2663,0.0119
+VEN20342,Crestview Industries 2,Payment Processing,India,Medium,47000.0,108600.0,4.3,Limited,Low,63.1,SOC2,1,1,0.811,No,Yes,Clear,12,Medium,Medium,40.4,0.2372,0.717,0.0458
+VEN20343,Redwood Solutions 2,Staffing,China,High,26000.0,44600.0,4.7,No Access,Low,65.7,Not Certified,1,2,0.982,No,Yes,Clear,110,Medium,Medium,47.6,0.1518,0.7442,0.104
+VEN20344,Nova Solutions,Consulting,South Africa,Medium,251600.0,503500.0,9.1,Limited,Low,71.5,Not Certified,1,0,0.882,Yes,Yes,Clear,711,Medium,Medium,44.6,0.2047,0.6981,0.0972
+VEN20345,Apex Technologies 2,Payment Processing,Poland,Medium,8000.0,25400.0,5.8,No Access,Medium,80.2,SOC2,0,0,1.0,No,Yes,Clear,273,Low,Low,13.7,0.7849,0.1561,0.059
+VEN20346,Beacon Enterprises,Consulting,China,High,214000.0,698000.0,2.2,Limited,Medium,55.7,Not Certified,1,0,0.897,No,Yes,Clear,516,High,High,80.9,0.0888,0.2044,0.7068
+VEN20347,Waypoint Enterprises 2,IT Services,Philippines,Medium,30200.0,47100.0,6.2,No Access,Medium,84.5,Not Certified,0,2,0.961,No,Yes,Clear,1009,Medium,Medium,41.1,0.2815,0.6148,0.1037
+VEN20348,Apex Dynamics,IT Services,Poland,Medium,220700.0,480400.0,2.3,Full,Low,67.2,SOC2,1,3,0.853,No,Yes,Clear,327,High,Medium,37.3,0.3755,0.5026,0.1218
+VEN20349,Union Dynamics 3,Cloud/SaaS,Ireland,Low,41200.0,92600.0,7.7,Full,Medium,98.8,SOC2,0,2,0.902,No,Yes,Clear,57,Low,Low,16.5,0.7344,0.201,0.0646
+VEN20350,Northgate Holdings 3,Manufacturing,United States,Low,625400.0,965800.0,8.0,No Access,Medium,92.6,SOC2,0,1,0.927,Yes,Yes,Clear,240,Low,Low,16.5,0.748,0.1746,0.0774
+VEN20351,Zenith Labs 3,Marketing & Media,Philippines,Medium,41500.0,82600.0,5.2,Full,Low,66.2,Not Certified,1,0,0.975,No,Yes,Clear,56,Medium,Medium,39.7,0.3083,0.5898,0.1018
+VEN20352,Crestview Industries 3,Manufacturing,Mexico,Medium,8000.0,11600.0,3.5,No Access,Low,63.1,ISO27001,0,1,1.0,No,Yes,Clear,91,Low,Low,15.2,0.7596,0.1771,0.0633
+VEN20353,Keystone Partners 2,Financial Services,Russia,High,2247200.0,6187100.0,2.5,Limited,Low,100.0,SOC2,1,0,0.998,No,Yes,Clear,197,Medium,Low,33.2,0.5057,0.3238,0.1706
+VEN20354,Meridian Solutions,Staffing,United Kingdom,Low,77000.0,118600.0,8.6,No Access,Medium,80.9,SOC2,0,1,0.853,No,Yes,Clear,6,Low,Low,16.4,0.7255,0.2218,0.0526
+VEN20355,Momentum Consulting 2,IT Services,China,High,64000.0,220200.0,3.9,Limited,Low,80.0,Not Certified,0,0,0.94,No,Yes,Clear,145,Medium,Medium,40.8,0.2934,0.5965,0.1101
+VEN20356,Outpost Holdings,Marketing & Media,Canada,Low,73300.0,53300.0,0.7,Limited,Medium,66.0,Not Certified,1,0,0.93,No,Yes,Clear,133,Low,Low,29.7,0.5553,0.2958,0.1489
+VEN20357,Bridgeline Enterprises 2,IT Services,Nigeria,High,51000.0,140900.0,13.1,Limited,Low,70.1,ISO27001,2,0,0.902,No,Yes,Clear,361,Medium,Medium,50.9,0.1282,0.725,0.1468
+VEN20358,Zenith Co.,Cloud/SaaS,Venezuela,High,104600.0,291800.0,4.4,No Access,Low,83.4,SOC2,2,0,0.975,No,Yes,Clear,758,Low,Medium,37.6,0.3836,0.4811,0.1353
+VEN20359,Vantage Global,Staffing,United States,Low,30600.0,54400.0,0.5,Limited,Medium,80.7,SOC2,0,1,1.0,Yes,Yes,Clear,64,Low,Low,22.3,0.6406,0.2731,0.0863
+VEN20360,Redwood Group 3,Marketing & Media,United Kingdom,Low,940600.0,880000.0,6.2,Full,High,60.2,Both,1,0,0.913,Yes,Yes,Clear,57,High,High,78.8,0.1264,0.1715,0.7021
+VEN20361,Meridian Logistics,Manufacturing,Venezuela,High,32800.0,80100.0,0.2,Full,Medium,89.6,Both,1,1,1.0,No,Yes,Clear,46,High,High,72.9,0.2097,0.1224,0.6678
+VEN20362,Waypoint Holdings 2,Logistics,Russia,High,157300.0,206900.0,5.0,No Access,Medium,76.3,SOC2,0,0,1.0,No,Yes,Clear,670,Medium,Low,38.3,0.4503,0.3343,0.2154
+VEN20363,Vertex Systems,Payment Processing,Poland,Medium,353400.0,1121200.0,1.0,No Access,Low,58.5,Both,1,1,0.876,Yes,Yes,Clear,78,Low,Low,27.0,0.5449,0.371,0.0842
+VEN20364,Silverline Holdings,Logistics,United States,Low,57000.0,135900.0,0.6,No Access,High,86.0,SOC2,0,0,1.0,No,Yes,Clear,708,Low,Low,14.5,0.7707,0.169,0.0603
+VEN20365,Vantage Consulting 2,IT Services,United States,Low,204300.0,466600.0,8.3,No Access,Medium,69.5,Both,0,0,1.0,Yes,Yes,Clear,414,Low,Low,14.2,0.7746,0.1661,0.0593
+VEN20366,Union Labs,Cloud/SaaS,United Kingdom,Low,39300.0,93700.0,0.5,No Access,High,83.0,SOC2,0,0,0.958,Yes,Yes,Clear,106,Low,Low,29.8,0.5306,0.3429,0.1266
+VEN20367,Ironwood Consulting,IT Services,Nigeria,High,23100.0,67000.0,0.8,No Access,High,64.1,Not Certified,0,1,1.0,No,Yes,Clear,137,High,High,76.5,0.1097,0.2507,0.6396
+VEN20368,Fulcrum Partners,Payment Processing,Brazil,Medium,29000.0,66000.0,2.1,Limited,Low,77.1,SOC2,0,0,0.955,No,Yes,Clear,129,Low,Low,22.1,0.6262,0.3051,0.0687
+VEN20369,Union Co.,IT Services,Ireland,Low,262000.0,716400.0,0.5,No Access,High,49.0,Not Certified,0,1,1.0,No,Yes,Clear,107,Low,Low,43.3,0.425,0.2838,0.2911
+VEN20370,Outpost Holdings 2,Consulting,Philippines,Medium,251200.0,649900.0,8.1,Limited,Low,77.2,SOC2,2,1,0.979,No,Yes,Clear,19,Medium,Medium,36.0,0.346,0.5874,0.0666
+VEN20371,Clearway Solutions 4,Cloud/SaaS,China,High,25600.0,48000.0,0.8,No Access,Medium,50.5,Not Certified,0,0,0.888,No,Yes,Clear,74,Medium,Medium,54.0,0.1075,0.7043,0.1882
+VEN20372,Keystone Dynamics 2,Logistics,United Kingdom,Low,241800.0,768400.0,18.3,No Access,Low,74.3,SOC2,0,1,0.956,No,Yes,Clear,374,Low,Low,10.1,0.8267,0.1452,0.0282
+VEN20373,Silverline Logistics 2,Facilities & Maintenance,China,High,25600.0,91500.0,4.3,Limited,Low,36.1,Not Certified,0,0,0.93,No,Yes,Clear,326,Medium,Medium,49.9,0.1489,0.7037,0.1474
+VEN20374,Apex Co. 3,Logistics,United Kingdom,Low,91000.0,289500.0,1.6,Limited,Medium,71.1,SOC2,0,2,0.91,No,Yes,Clear,48,Low,Low,22.4,0.6355,0.2816,0.0829
+VEN20375,Summit Partners,Manufacturing,United Kingdom,Low,166300.0,397200.0,1.1,Limited,Low,82.2,SOC2,1,2,0.871,No,Yes,Clear,205,Low,Low,20.1,0.6604,0.2776,0.062
+VEN20376,Momentum Enterprises,IT Services,United States,Low,8000.0,22700.0,3.9,No Access,Medium,78.8,Both,1,1,0.893,No,Yes,Clear,181,Low,Low,17.4,0.7199,0.2124,0.0677
+VEN20377,Crestview Labs,Manufacturing,United States,Low,151600.0,218000.0,0.2,Limited,Medium,88.9,Both,0,1,0.866,Yes,Yes,Clear,260,Low,Low,20.1,0.6667,0.2654,0.0679
+VEN20378,Atlas Group,IT Services,India,Medium,51600.0,84200.0,1.4,Full,Low,56.8,ISO27001,0,0,1.0,Yes,Yes,Clear,62,Low,Low,19.7,0.6531,0.3,0.047
+VEN20379,Anchor Consulting,Cloud/SaaS,United States,Low,13000.0,20600.0,5.9,No Access,Low,94.1,SOC2,0,1,0.822,No,Yes,Clear,149,Low,Low,10.8,0.8009,0.1825,0.0167
+VEN20380,Northgate Group,Payment Processing,India,Medium,161600.0,294600.0,12.5,No Access,Medium,94.7,ISO27001,0,0,0.945,No,Yes,Clear,74,Low,Low,15.6,0.7362,0.2155,0.0483
+VEN20381,Apex Group 2,Logistics,Canada,Low,102100.0,301700.0,3.1,Limited,Medium,55.0,Both,0,0,0.903,No,Yes,Clear,180,Low,Low,25.9,0.5657,0.3503,0.084
+VEN20382,Anchor Logistics,Logistics,Philippines,Medium,110500.0,180000.0,1.5,No Access,High,60.7,ISO27001,0,4,0.865,Yes,No,Clear,466,High,High,71.0,0.1654,0.2495,0.5851
+VEN20383,Zenith Consulting,Marketing & Media,United States,Low,52700.0,93700.0,0.2,No Access,Low,63.9,Not Certified,1,0,0.984,Yes,No,Clear,44,Medium,Medium,39.6,0.2866,0.6349,0.0785
+VEN20384,Cascade Holdings,Payment Processing,Canada,Low,33100.0,35700.0,0.5,Full,High,71.6,ISO27001,0,1,0.892,Yes,Yes,Clear,413,Medium,Medium,50.6,0.1676,0.6527,0.1798
+VEN20385,Nova Group 3,Logistics,United Kingdom,Low,15600.0,27000.0,2.3,No Access,Low,74.6,SOC2,1,0,1.0,Yes,No,Clear,98,Low,Low,12.0,0.7841,0.1922,0.0237
+VEN20386,Meridian Enterprises 2,Manufacturing,India,Medium,55200.0,52600.0,7.7,Full,High,37.1,Both,0,0,0.929,No,Yes,Clear,120,Medium,Medium,53.0,0.1511,0.6385,0.2104
+VEN20387,Brightline Technologies,Marketing & Media,Brazil,Medium,21100.0,63200.0,2.8,Limited,Medium,80.3,ISO27001,1,0,0.96,Yes,Yes,Clear,44,Medium,Medium,45.7,0.3489,0.3877,0.2634
+VEN20388,Fulcrum Group,Staffing,Philippines,Medium,42900.0,92500.0,7.4,No Access,Low,68.4,Both,1,1,0.932,No,Yes,Clear,11,Low,Low,29.8,0.4991,0.405,0.0959
+VEN20389,Vantage Technologies,Facilities & Maintenance,Philippines,Medium,115200.0,348200.0,11.6,No Access,High,57.6,Not Certified,0,0,0.979,Yes,Yes,Clear,111,Medium,Medium,52.7,0.1688,0.6088,0.2224
+VEN20390,Summit Dynamics 2,Cloud/SaaS,Poland,Medium,181900.0,613200.0,0.9,No Access,Low,85.4,ISO27001,0,0,0.996,No,Yes,Clear,1400,Low,Low,8.9,0.8441,0.1333,0.0226
+VEN20391,Crestview Networks,Cloud/SaaS,India,Medium,117800.0,312900.0,3.0,Limited,Medium,67.1,Not Certified,0,1,0.913,No,Yes,Clear,265,Medium,Medium,48.9,0.2142,0.594,0.1918
+VEN20392,Vertex Dynamics 2,Staffing,Germany,Low,100000.0,254900.0,3.0,Full,Low,88.0,SOC2,0,0,0.939,No,Yes,Clear,5,Low,Low,12.4,0.7792,0.1931,0.0276
+VEN20393,Apex Dynamics 2,Marketing & Media,Canada,Low,52100.0,124400.0,2.2,No Access,Medium,79.5,Both,1,1,1.0,No,Yes,Clear,92,Low,Low,11.8,0.8041,0.1551,0.0408
+VEN20394,Apex Consulting,Payment Processing,South Africa,Medium,216200.0,419500.0,4.1,No Access,High,,Both,0,0,0.906,No,Yes,Clear,13,Low,Low,41.7,0.4198,0.326,0.2542
+VEN20395,Union Group 2,Staffing,Ireland,Low,282200.0,155300.0,0.2,No Access,Low,88.5,Not Certified,1,0,1.0,No,Yes,Clear,99,Low,Low,6.7,0.8788,0.1094,0.0118
+VEN20396,Fulcrum Systems 3,Manufacturing,Mexico,Medium,40300.0,97800.0,0.2,No Access,Low,,Both,0,0,0.916,No,Yes,Clear,81,Low,Low,18.9,0.69,0.2429,0.0671
+VEN20397,Atlas Partners,IT Services,United States,Low,43100.0,74400.0,0.7,No Access,High,64.8,Not Certified,0,0,0.907,Yes,Yes,Clear,70,Medium,Medium,45.7,0.2425,0.6015,0.1561
+VEN20398,Momentum Networks,Payment Processing,Germany,Low,22900.0,34100.0,4.2,Full,Medium,49.2,SOC2,0,1,0.839,No,Yes,Clear,263,Medium,Medium,38.2,0.3289,0.579,0.0922
+VEN20399,Northgate Systems 2,Marketing & Media,United States,Low,50600.0,92100.0,6.4,Full,Low,64.2,Not Certified,1,0,0.889,No,No,Clear,808,High,Medium,46.0,0.2575,0.5652,0.1774
+VEN20400,Ironwood Systems,Facilities & Maintenance,Germany,Low,43100.0,97500.0,12.1,Full,Low,80.6,Both,0,0,0.835,Yes,No,Clear,173,Medium,Medium,39.4,0.2553,0.7013,0.0434
+VEN20401,Trailhead Networks,Marketing & Media,Philippines,Medium,699900.0,1983400.0,3.5,Limited,Low,68.6,Not Certified,0,0,0.906,Yes,Yes,Clear,81,Low,Low,19.7,0.6452,0.3161,0.0387
+VEN20402,Zenith Holdings,Manufacturing,Germany,Low,348600.0,520000.0,3.4,Full,Low,96.8,Both,0,2,0.982,No,Yes,Clear,138,Low,Low,13.1,0.7849,0.1677,0.0474
+VEN20403,Cascade Global,Logistics,Poland,Medium,14700.0,18800.0,7.2,Limited,Low,75.6,SOC2,0,0,0.936,No,Yes,Clear,703,Low,Low,25.6,0.5544,0.3797,0.0659
+VEN20404,Silverline Consulting 2,Facilities & Maintenance,United States,Low,176600.0,554400.0,1.4,No Access,Medium,74.7,ISO27001,0,1,0.904,Yes,Yes,Clear,175,Medium,Medium,29.8,0.4538,0.4959,0.0503
+VEN20405,Outpost Dynamics,Financial Services,Germany,Low,54100.0,147300.0,1.3,Limited,Medium,77.6,Not Certified,1,2,0.878,No,Yes,Clear,12,High,High,67.8,0.2277,0.1894,0.5829
+VEN20406,Lighthouse Group 2,Marketing & Media,Ireland,Low,9400.0,27400.0,12.8,No Access,Low,59.5,SOC2,0,1,0.899,No,Yes,Clear,656,Low,Low,20.0,0.6493,0.3006,0.0501
+VEN20407,Clearway Global,Consulting,India,Medium,96100.0,198400.0,3.1,Limited,Low,70.2,SOC2,0,2,0.853,No,Yes,Clear,238,Medium,Medium,32.0,0.4394,0.4809,0.0797
+VEN20408,Momentum Systems,Payment Processing,Canada,Low,32300.0,38000.0,3.8,Full,Medium,62.6,Not Certified,0,0,0.864,No,Yes,Flagged,367,High,High,84.7,0.0823,0.142,0.7757
+VEN20409,Atlas Co. 2,Manufacturing,Poland,Medium,102300.0,341200.0,6.3,No Access,Low,38.8,ISO27001,0,2,1.0,Yes,Yes,Clear,51,Low,Low,16.3,0.7251,0.2237,0.0513
+VEN20410,Meridian Enterprises 3,Manufacturing,China,High,131100.0,428900.0,4.6,No Access,Medium,46.8,Not Certified,0,0,0.954,Yes,Yes,Clear,108,High,Medium,56.8,0.1935,0.4778,0.3287
+VEN20411,Clearway Technologies 2,Consulting,Brazil,Medium,33400.0,60300.0,7.9,Full,Medium,82.3,Not Certified,1,0,0.885,Yes,Yes,Clear,414,High,High,75.3,0.1431,0.2085,0.6484
+VEN20412,Bridgeline Co.,Manufacturing,United States,Low,408000.0,1065700.0,8.6,Limited,Medium,65.7,ISO27001,0,1,0.98,No,Yes,Clear,322,Low,Low,18.2,0.6995,0.2368,0.0638
+VEN20413,Silverline Enterprises 2,Staffing,Australia,Low,83700.0,263900.0,3.0,No Access,Medium,70.2,Not Certified,1,0,1.0,No,Yes,Clear,101,Low,Low,15.0,0.7317,0.2367,0.0316
+VEN20414,Horizon Dynamics 2,IT Services,Germany,Low,28600.0,121900.0,6.9,No Access,Low,51.1,Both,0,0,0.902,No,Yes,Clear,239,Low,Low,11.8,0.7935,0.176,0.0305
+VEN20415,Outpost Group 2,Financial Services,India,Medium,10600.0,34400.0,0.2,No Access,Medium,63.6,SOC2,0,1,0.933,Yes,Yes,Clear,96,Low,Low,34.8,0.4849,0.3346,0.1805
+VEN20416,Northgate Systems 3,Financial Services,United States,Low,953900.0,2604500.0,7.3,Full,Medium,83.0,Both,0,0,0.865,No,Yes,Clear,394,Low,Low,19.8,0.704,0.1966,0.0994
+VEN20417,Apex Industries,Staffing,Philippines,Medium,28000.0,59300.0,11.2,Limited,Medium,73.3,Both,0,1,0.844,Yes,Yes,Clear,184,Medium,Medium,47.7,0.2245,0.597,0.1785
+VEN20418,Keystone Logistics 2,Payment Processing,Ireland,Low,76900.0,148400.0,6.0,Full,Low,64.6,ISO27001,0,2,1.0,Yes,Yes,Clear,46,Low,Low,14.6,0.7453,0.218,0.0367
+VEN20419,Redwood Systems 2,Cloud/SaaS,Nigeria,High,99300.0,223000.0,0.5,Limited,High,93.5,Both,0,0,1.0,No,Yes,Clear,387,Low,Low,27.8,0.6291,0.1862,0.1847
+VEN20420,Bridgeline Solutions 2,Facilities & Maintenance,United States,Low,200900.0,355300.0,5.6,Full,Low,71.1,Not Certified,0,1,0.896,No,Yes,Clear,201,Medium,Medium,31.7,0.4166,0.5333,0.0501
+VEN20421,Summit Group,Facilities & Maintenance,Ireland,Low,14700.0,41200.0,0.3,Full,Medium,67.0,SOC2,1,0,0.842,No,Yes,Clear,154,Low,Low,21.4,0.6687,0.2345,0.0968
+VEN20422,Union Enterprises 3,Cloud/SaaS,Australia,Low,8000.0,19300.0,2.9,Limited,Medium,88.1,Not Certified,0,0,1.0,No,Yes,Clear,52,Low,Low,14.9,0.7592,0.1828,0.058
+VEN20423,Apex Logistics 2,Payment Processing,Brazil,Medium,80200.0,169600.0,5.2,Full,Medium,47.4,ISO27001,0,0,1.0,No,Yes,Clear,96,Medium,Low,38.6,0.4118,0.405,0.1832
+VEN20424,Summit Partners 2,Facilities & Maintenance,Philippines,Medium,12400.0,18600.0,7.6,No Access,Low,79.7,Both,0,0,0.969,Yes,No,Clear,287,Medium,Medium,38.7,0.2819,0.6625,0.0556
+VEN20425,Clearway Global 2,Consulting,Canada,Low,50900.0,121800.0,9.1,No Access,High,56.2,Both,0,1,1.0,No,Yes,Clear,32,Low,Low,33.0,0.5558,0.2287,0.2155
+VEN20426,Bridgeline Industries 3,Cloud/SaaS,United Kingdom,Low,781100.0,1592200.0,3.9,Limited,Low,60.8,SOC2,0,0,0.92,Yes,Yes,Clear,58,Low,Low,13.5,0.7598,0.2106,0.0296
+VEN20427,Brightline Consulting 2,Financial Services,Philippines,Medium,35200.0,92100.0,0.2,No Access,Low,62.3,Both,0,0,0.957,No,No,Flagged,217,High,High,76.2,0.1865,0.1028,0.7106
+VEN20428,Clearway Labs,Logistics,Ireland,Low,154600.0,240400.0,0.6,Limited,Medium,73.7,SOC2,1,2,0.987,No,Yes,Clear,739,Medium,Low,26.8,0.5956,0.2729,0.1315
+VEN20429,Horizon Technologies 2,Marketing & Media,United Kingdom,Low,19200.0,54600.0,2.8,Limited,Medium,73.4,SOC2,0,0,0.921,No,Yes,Clear,422,Low,Low,20.6,0.6566,0.2741,0.0693
+VEN20430,Summit Co.,Facilities & Maintenance,China,High,2285900.0,5067800.0,2.0,Full,Low,76.2,ISO27001,0,0,0.969,No,Yes,Clear,514,Low,Low,25.5,0.6505,0.1886,0.1609
+VEN20431,Brightline Consulting 3,Financial Services,South Africa,Medium,45200.0,173300.0,4.4,Full,Low,74.9,Both,1,0,0.926,No,Yes,Clear,212,Low,Low,26.7,0.5491,0.3672,0.0836
+VEN20432,Trailhead Partners 2,Logistics,Germany,Low,111600.0,190200.0,1.5,No Access,High,91.7,Not Certified,0,1,0.967,Yes,Yes,Clear,521,Medium,Low,32.4,0.5088,0.3351,0.1561
+VEN20433,Clearway Consulting,Financial Services,India,Medium,59500.0,230800.0,6.1,Full,Low,95.8,SOC2,0,0,0.95,No,No,Clear,402,Medium,Medium,37.4,0.3233,0.6048,0.0719
+VEN20434,Ironwood Consulting 2,Manufacturing,China,High,34400.0,159200.0,7.5,Limited,Low,81.9,SOC2,0,2,0.821,Yes,Yes,Clear,96,Medium,Medium,44.5,0.1796,0.7512,0.0692
+VEN20435,Pinnacle Consulting 2,Payment Processing,Canada,Low,243600.0,560200.0,8.1,Limited,Low,82.6,Not Certified,1,2,0.945,No,Yes,Clear,54,Medium,Low,26.1,0.5702,0.3378,0.092
+VEN20436,Horizon Technologies 3,Financial Services,China,High,53300.0,210700.0,7.3,Limited,Medium,66.6,Not Certified,0,0,0.854,Yes,No,Clear,110,High,High,85.9,0.0507,0.1801,0.7692
+VEN20437,Cascade Technologies 3,Financial Services,China,High,23800.0,77100.0,6.9,Full,Medium,56.4,Both,0,1,0.889,No,Yes,Clear,159,High,High,77.8,0.121,0.2026,0.6764
+VEN20438,Waypoint Global,Cloud/SaaS,Philippines,Medium,37100.0,50900.0,0.8,No Access,Medium,80.3,Both,0,0,0.84,No,Yes,Clear,666,Low,Low,23.7,0.6453,0.2356,0.1192
+VEN20439,Momentum Technologies 4,Cloud/SaaS,Poland,Medium,48400.0,91800.0,0.5,No Access,Low,72.4,SOC2,0,0,0.989,Yes,Yes,Clear,96,Low,Low,12.9,0.7769,0.1888,0.0343
+VEN20440,Keystone Dynamics 3,Consulting,Poland,Medium,76900.0,242600.0,5.0,Full,Low,84.0,Not Certified,0,1,0.92,No,Yes,Clear,138,Low,Low,22.1,0.6172,0.3241,0.0588
+VEN20441,Ironwood Group,Logistics,India,Medium,80500.0,209000.0,4.8,Limited,Medium,46.2,Both,1,0,0.917,Yes,Yes,Clear,165,Medium,Medium,49.3,0.1838,0.6468,0.1694
+VEN20442,Clearway Group 2,Payment Processing,India,Medium,26400.0,80600.0,22.0,Limited,High,100.0,SOC2,0,0,1.0,No,Yes,Clear,85,Low,Low,36.8,0.4623,0.3402,0.1975
+VEN20443,Outpost Enterprises,Facilities & Maintenance,Canada,Low,37500.0,101200.0,6.0,No Access,Medium,54.0,Not Certified,1,0,0.982,Yes,Yes,Clear,585,Medium,Low,41.2,0.4187,0.3392,0.2421
+VEN20444,Vertex Co.,Consulting,India,Medium,762000.0,2685000.0,1.8,No Access,Low,72.4,ISO27001,0,0,0.927,No,No,Clear,527,Low,Low,16.3,0.7452,0.1836,0.0712
+VEN20445,Lighthouse Solutions,Cloud/SaaS,Poland,Medium,49900.0,108400.0,1.1,Limited,Low,85.9,ISO27001,0,2,0.815,No,Yes,Clear,5,Medium,Medium,35.5,0.3421,0.605,0.0529
+VEN20446,Crestview Logistics 3,Consulting,Australia,Low,328900.0,500500.0,7.1,Limited,Low,52.4,ISO27001,0,0,0.979,No,No,Clear,94,Medium,Medium,33.2,0.3619,0.6116,0.0266
+VEN20447,Waypoint Consulting 3,Staffing,Poland,Medium,40000.0,73300.0,2.3,Limited,Medium,64.1,SOC2,0,0,0.924,No,Yes,Clear,717,Medium,Medium,44.4,0.3382,0.4357,0.2261
+VEN20448,Union Industries,Facilities & Maintenance,Japan,Low,101100.0,236600.0,3.8,Limited,Low,43.5,Not Certified,1,1,0.918,Yes,Yes,Clear,91,Medium,Medium,38.4,0.3043,0.6242,0.0714
+VEN20449,Union Partners 4,Marketing & Media,Brazil,Medium,32000.0,52600.0,1.3,Limited,Medium,51.8,Not Certified,0,1,0.984,Yes,Yes,Clear,183,High,High,72.2,0.1624,0.232,0.6057
+VEN20450,Northgate Consulting 2,Staffing,Philippines,Medium,8000.0,18700.0,0.9,No Access,Low,44.6,ISO27001,0,1,0.902,Yes,No,Clear,51,Medium,Medium,42.4,0.251,0.6503,0.0987
+VEN20451,Nova Networks,Manufacturing,United States,Low,34500.0,75700.0,8.8,Limited,Low,73.4,SOC2,0,2,0.935,No,Yes,Clear,102,Low,Low,11.6,0.7851,0.1985,0.0164
+VEN20452,Crestview Partners,Marketing & Media,Philippines,Medium,183000.0,386200.0,5.9,No Access,Medium,76.1,ISO27001,0,2,0.993,No,Yes,Clear,104,Low,Low,14.9,0.7502,0.2009,0.049
+VEN20453,Horizon Labs,Cloud/SaaS,United Kingdom,Low,287700.0,668900.0,7.4,Limited,Medium,67.5,Both,0,0,0.974,No,No,Clear,408,Medium,Medium,38.4,0.3005,0.6313,0.0682
+VEN20454,Waypoint Enterprises 3,IT Services,United States,Low,229100.0,469400.0,3.2,Limited,Low,89.8,Both,1,0,0.903,No,Yes,Clear,268,Low,Low,17.4,0.6798,0.2933,0.0269
+VEN20455,Silverline Enterprises 3,Marketing & Media,United States,Low,34100.0,107200.0,7.4,Limited,Low,91.6,Not Certified,1,1,1.0,Yes,Yes,Clear,49,Medium,Medium,35.4,0.3309,0.6307,0.0385
+VEN20456,Horizon Consulting,Financial Services,United Kingdom,Low,44200.0,107700.0,0.7,Limited,Low,71.9,ISO27001,1,1,1.0,Yes,Yes,Clear,17,Low,Low,15.1,0.7461,0.2055,0.0484
+VEN20457,Redwood Networks 2,Payment Processing,India,Medium,16900.0,50200.0,0.3,Full,Low,68.9,Not Certified,0,2,1.0,No,Yes,Clear,209,Medium,Low,26.6,0.5822,0.3042,0.1136
+VEN20458,Crestview Co. 2,Logistics,United Kingdom,Low,88800.0,107800.0,2.2,Full,Medium,68.1,Not Certified,1,0,0.937,No,No,Clear,182,Medium,Medium,48.0,0.3004,0.4386,0.261
+VEN20459,Momentum Partners 2,Payment Processing,Canada,Low,166900.0,397100.0,1.0,No Access,Low,65.6,Not Certified,0,1,0.953,No,Yes,Clear,144,Low,Low,9.3,0.8311,0.1514,0.0175
+VEN20460,Vertex Industries,Consulting,Philippines,Medium,83500.0,165200.0,3.4,Limited,Medium,90.4,SOC2,1,0,1.0,No,Yes,Clear,428,Low,Low,25.7,0.632,0.2212,0.1468
+VEN20461,Ironwood Holdings 3,Payment Processing,Germany,Low,26800.0,21600.0,15.8,Limited,Medium,75.3,Not Certified,0,4,0.966,Yes,Yes,Clear,229,High,Medium,37.8,0.4145,0.4149,0.1706
+VEN20462,Zenith Solutions,Consulting,China,High,102300.0,407100.0,2.2,No Access,Medium,67.3,Not Certified,0,0,0.948,No,Yes,Clear,45,Medium,Medium,47.1,0.1979,0.6632,0.1389
+VEN20463,Waypoint Partners,Cloud/SaaS,United Kingdom,Low,71700.0,93800.0,6.2,Limited,Low,68.8,Both,0,0,0.934,No,Yes,Clear,232,Low,Low,13.7,0.752,0.2228,0.0251
+VEN20464,Clearway Networks,Cloud/SaaS,Poland,Medium,112400.0,338300.0,0.3,Full,Low,79.7,Not Certified,0,1,0.922,No,Yes,Clear,1001,High,Low,32.2,0.4834,0.3886,0.128
+VEN20465,Waypoint Partners 2,Cloud/SaaS,Germany,Low,51800.0,153000.0,2.4,Full,Medium,66.4,SOC2,0,1,0.901,No,Yes,Clear,135,Low,Low,27.4,0.5545,0.3438,0.1018
+VEN20466,Pinnacle Industries 2,Manufacturing,South Africa,Medium,81500.0,267000.0,0.6,No Access,Medium,76.4,SOC2,0,2,0.901,Yes,Yes,Clear,321,Low,Low,21.5,0.667,0.2358,0.0972
+VEN20467,Horizon Solutions 2,IT Services,Mexico,Medium,27700.0,55600.0,0.7,No Access,Low,71.5,Not Certified,1,0,0.964,No,Yes,Clear,120,Low,Low,19.2,0.6838,0.2488,0.0674
+VEN20468,Meridian Dynamics 3,Cloud/SaaS,Poland,Medium,24200.0,12100.0,4.9,Limited,Low,91.1,Not Certified,2,0,0.922,No,Yes,Clear,305,Medium,Medium,41.0,0.2645,0.6506,0.0849
+VEN20469,Keystone Logistics 3,IT Services,United States,Low,8000.0,22900.0,9.5,Full,Medium,88.4,ISO27001,0,0,0.855,No,Yes,Clear,79,Low,Low,13.4,0.7955,0.1418,0.0628
+VEN20470,Zenith Labs 4,Consulting,Philippines,Medium,83000.0,188900.0,10.5,No Access,Low,52.0,SOC2,0,0,0.943,No,Yes,Clear,236,Low,Low,20.4,0.644,0.3046,0.0514
+VEN20471,Summit Industries 2,Manufacturing,Germany,Low,78200.0,225500.0,7.2,No Access,Medium,69.7,SOC2,0,0,1.0,Yes,Yes,Clear,288,Low,Low,11.8,0.807,0.15,0.043
+VEN20472,Lighthouse Technologies 2,Facilities & Maintenance,Philippines,Medium,21100.0,47200.0,1.0,Limited,Low,82.0,Both,0,0,1.0,No,Yes,Clear,15,Low,Low,19.0,0.6819,0.2558,0.0622
+VEN20473,Beacon Systems 2,Financial Services,South Africa,Medium,394600.0,1337300.0,5.6,Limited,Low,65.7,Not Certified,0,0,0.82,No,Yes,Clear,252,Low,Low,23.2,0.614,0.3077,0.0784
+VEN20474,Bridgeline Enterprises 3,Staffing,United States,Low,271700.0,754000.0,3.1,Full,High,83.4,ISO27001,0,0,0.889,No,Yes,Clear,274,Low,Low,20.9,0.6772,0.2267,0.0961
+VEN20475,Redwood Partners 5,Staffing,United States,Low,488300.0,1018100.0,0.4,No Access,Low,76.7,Not Certified,0,1,0.987,No,Yes,Clear,192,Low,Low,6.4,0.8841,0.1039,0.012
+VEN20476,Meridian Industries 5,Manufacturing,Philippines,Medium,57700.0,246900.0,11.1,Limited,Low,80.4,SOC2,0,0,0.945,Yes,No,Clear,36,Low,Low,24.3,0.5848,0.344,0.0712
+VEN20477,Brightline Partners 2,Financial Services,Russia,High,49200.0,93100.0,0.4,Full,Medium,71.1,ISO27001,1,1,0.944,Yes,Yes,Clear,87,High,High,65.6,0.144,0.4007,0.4553
+VEN20478,Apex Industries 2,IT Services,China,High,97900.0,61200.0,0.2,Limited,Medium,76.3,Both,0,1,0.932,Yes,Yes,Clear,265,Medium,Medium,49.6,0.1731,0.6622,0.1647
+VEN20479,Pinnacle Global 2,Logistics,Japan,Low,197800.0,487000.0,0.2,Limited,Low,79.4,SOC2,1,0,0.944,No,Yes,Clear,36,Low,Low,9.2,0.844,0.1284,0.0277
+VEN20480,Zenith Holdings 2,Cloud/SaaS,Brazil,Medium,391400.0,1076700.0,4.8,No Access,Medium,51.3,ISO27001,0,0,0.879,Yes,Yes,Clear,30,Medium,Medium,44.1,0.222,0.6733,0.1047
+VEN20481,Apex Co. 4,Logistics,United States,Low,21900.0,61800.0,3.1,Full,Low,59.1,SOC2,0,0,1.0,No,Yes,Clear,22,Low,Low,16.9,0.7044,0.2536,0.0421
+VEN20482,Crestview Group,Logistics,United States,Low,55300.0,107400.0,2.3,Limited,Medium,57.7,Not Certified,0,1,0.878,No,Yes,Clear,113,Medium,Medium,42.8,0.2726,0.599,0.1284
+VEN20483,Union Enterprises 4,Facilities & Maintenance,India,Medium,8000.0,18900.0,9.9,Limited,Low,95.8,Not Certified,0,1,0.932,Yes,Yes,Clear,23,Low,Low,21.1,0.629,0.3202,0.0509
+VEN20484,Crestview Solutions,Logistics,India,Medium,49700.0,84600.0,2.5,Limited,Low,76.3,SOC2,0,0,1.0,Yes,Yes,Clear,109,Low,Low,20.6,0.6311,0.3249,0.044
+VEN20485,Anchor Solutions,Logistics,Brazil,Medium,196700.0,401200.0,6.9,Full,Low,77.3,Both,0,1,1.0,No,Yes,Clear,11,Low,Low,16.8,0.7165,0.2302,0.0533
+VEN20486,Summit Enterprises,Payment Processing,Canada,Low,151600.0,439700.0,0.2,Full,Low,74.5,Not Certified,2,1,0.94,No,Yes,Clear,77,Low,Low,24.7,0.5987,0.3092,0.0922
+VEN20487,Trailhead Technologies,IT Services,Japan,Low,1074900.0,2103200.0,3.1,No Access,Medium,64.7,ISO27001,0,1,0.94,Yes,Yes,Clear,189,Low,Low,18.1,0.6974,0.2428,0.0598
+VEN20488,Trailhead Global 2,IT Services,Venezuela,High,151500.0,445900.0,14.4,Limited,Medium,61.5,ISO27001,1,0,0.905,Yes,Yes,Clear,127,Medium,High,62.7,0.1963,0.3532,0.4504
+VEN20489,Waypoint Group 3,IT Services,United Kingdom,Low,41500.0,90300.0,6.7,Limited,Medium,84.0,SOC2,1,0,0.91,No,Yes,Clear,347,Low,Low,22.4,0.6348,0.2819,0.0832
+VEN20490,Zenith Consulting 2,Payment Processing,Ireland,Low,28200.0,68800.0,8.9,Full,High,66.8,ISO27001,0,2,0.926,No,No,Clear,203,High,High,74.6,0.16,0.1873,0.6527
+VEN20491,Nova Group 4,Marketing & Media,Mexico,Medium,93100.0,196700.0,0.2,Full,Low,94.3,Not Certified,0,1,1.0,Yes,Yes,Clear,36,Medium,Medium,32.1,0.3903,0.5783,0.0314
+VEN20492,Zenith Holdings 3,Staffing,Venezuela,High,474500.0,1557000.0,3.1,Limited,Medium,74.8,Not Certified,2,3,0.914,No,No,Clear,10,High,High,79.8,0.1144,0.1744,0.7112
+VEN20493,Outpost Systems 4,Consulting,Canada,Low,15700.0,38600.0,5.3,Full,High,73.3,SOC2,0,1,0.974,No,Yes,Clear,27,Low,Low,19.6,0.72,0.1677,0.1123
+VEN20494,Anchor Co. 2,Cloud/SaaS,Poland,Medium,22300.0,38900.0,6.7,Limited,Low,69.0,ISO27001,0,3,0.966,No,Yes,Clear,5,Low,Low,24.1,0.5815,0.3554,0.0631
+VEN20495,Horizon Co. 2,Consulting,Ireland,Low,75300.0,185800.0,9.4,Limited,Low,71.0,Not Certified,1,0,0.965,No,Yes,Clear,42,Low,Low,25.6,0.5575,0.3729,0.0696
+VEN20496,Silverline Networks,Cloud/SaaS,Ireland,Low,46000.0,152200.0,2.3,No Access,Medium,72.5,Not Certified,1,0,0.924,No,Yes,Clear,123,Medium,Medium,32.8,0.4036,0.5374,0.0589
+VEN20497,Fulcrum Holdings 2,Financial Services,United Kingdom,Low,195400.0,503500.0,2.0,Limited,Medium,93.5,Both,0,1,0.985,No,Yes,Clear,57,Low,Low,13.1,0.7719,0.1943,0.0338
+VEN20498,Nova Co.,Marketing & Media,Australia,Low,39800.0,60700.0,2.5,No Access,Medium,100.0,SOC2,0,1,0.95,Yes,Yes,Clear,246,Low,Low,14.1,0.7656,0.1871,0.0473
+VEN20499,Summit Enterprises 2,Staffing,India,Medium,72400.0,127600.0,5.8,Limited,Medium,55.8,Both,0,0,0.947,No,Yes,Clear,34,Low,Low,37.8,0.4255,0.3926,0.182
+VEN20500,Bridgeline Networks,Cloud/SaaS,Germany,Low,67700.0,104300.0,0.2,No Access,Low,75.7,Both,0,1,0.913,Yes,Yes,Clear,430,Low,Low,11.4,0.7934,0.1851,0.0215
+VEN20501,Crestview Solutions 2,Financial Services,India,Medium,88500.0,304700.0,0.2,Limited,Low,82.0,Not Certified,1,0,0.812,Yes,Yes,Clear,175,Medium,Medium,36.1,0.416,0.4469,0.1371
+VEN20502,Trailhead Systems,IT Services,Mexico,Medium,341200.0,854200.0,5.3,Limited,Low,59.4,SOC2,0,0,0.985,No,Yes,Clear,412,Low,Low,17.7,0.6804,0.2855,0.0341
+VEN20503,Brightline Consulting 4,Logistics,South Africa,Medium,15000.0,45800.0,1.6,Limited,Medium,63.2,Both,0,3,0.986,No,Yes,Clear,396,Medium,Medium,46.4,0.2533,0.5657,0.181
+VEN20504,Ironwood Dynamics 3,Consulting,India,Medium,9000.0,27100.0,1.1,Limited,Low,65.7,Not Certified,0,1,0.911,No,Yes,Clear,302,Low,Low,27.1,0.5488,0.3605,0.0908
+VEN20505,Ironwood Dynamics 4,Payment Processing,Germany,Low,11900.0,24900.0,1.2,No Access,Low,38.2,Both,1,0,0.93,Yes,Yes,Clear,351,Low,Low,21.1,0.6565,0.2653,0.0782
+VEN20506,Bridgeline Co. 2,Facilities & Maintenance,Russia,High,48700.0,157200.0,4.9,Limited,High,81.2,Both,0,1,0.958,No,No,Clear,680,High,High,82.8,0.089,0.1655,0.7455
+VEN20507,Momentum Systems 2,Staffing,Canada,Low,78500.0,177400.0,2.9,Limited,Low,71.4,ISO27001,0,0,0.883,No,Yes,Clear,224,Low,Low,16.4,0.7119,0.2474,0.0407
+VEN20508,Redwood Enterprises 2,Payment Processing,United States,Low,128400.0,334600.0,0.2,Limited,Low,70.8,SOC2,1,1,0.984,No,Yes,Clear,123,Low,Low,11.0,0.8031,0.1736,0.0233
+VEN20509,Fulcrum Holdings 3,Logistics,China,High,99000.0,73200.0,2.0,Limited,Medium,73.3,ISO27001,0,0,0.984,Yes,Yes,Clear,705,Medium,Medium,54.8,0.143,0.6172,0.2398
+VEN20510,Vertex Global,Consulting,United Kingdom,Low,79800.0,180600.0,2.1,No Access,Low,75.6,Not Certified,0,0,0.992,Yes,Yes,Clear,53,Low,Low,11.8,0.7768,0.2098,0.0135
+VEN20511,Vertex Solutions 3,Manufacturing,United States,Low,8500.0,17100.0,2.5,Limited,Medium,100.0,SOC2,0,2,0.996,No,Yes,Clear,52,Low,Low,8.0,0.8663,0.1068,0.0269
+VEN20512,Horizon Global 2,Cloud/SaaS,Germany,Low,31600.0,54400.0,5.1,No Access,Low,74.7,Not Certified,0,1,0.828,Yes,Yes,Clear,327,Medium,Medium,29.2,0.4444,0.5264,0.0291
+VEN20513,Crestview Networks 2,Financial Services,Germany,Low,113400.0,282600.0,0.8,Full,Low,83.8,SOC2,1,0,0.973,No,Yes,Clear,271,Low,Low,10.6,0.8244,0.1384,0.0372
+VEN20514,Outpost Industries,Facilities & Maintenance,Germany,Low,16000.0,21100.0,1.2,Limited,Medium,64.8,ISO27001,0,0,0.915,No,Yes,Clear,5,Low,Low,17.5,0.7243,0.2022,0.0735
+VEN20515,Momentum Global 2,Marketing & Media,South Africa,Medium,38800.0,81800.0,1.1,No Access,Medium,77.1,Not Certified,0,0,1.0,No,Yes,Clear,445,Low,Low,20.6,0.7003,0.1879,0.1118
+VEN20516,Brightline Partners 3,Marketing & Media,United Kingdom,Low,41100.0,20600.0,5.2,Limited,High,67.7,Both,0,0,1.0,No,Yes,Clear,251,Low,Low,16.0,0.7275,0.2245,0.0481
+VEN20517,Lighthouse Enterprises,IT Services,United States,Low,121600.0,259500.0,2.6,No Access,Low,70.0,Not Certified,0,1,0.99,No,No,Clear,271,Low,Low,10.9,0.828,0.1258,0.0462
+VEN20518,Apex Partners,Marketing & Media,Canada,Low,24400.0,42900.0,8.3,Full,Medium,59.4,Not Certified,1,1,0.937,Yes,Yes,Clear,69,High,High,70.4,0.2023,0.1883,0.6094
+VEN20519,Nova Co. 2,Consulting,Nigeria,High,9600.0,35400.0,2.0,Full,Low,60.7,SOC2,0,0,1.0,Yes,Yes,Clear,92,Medium,Medium,41.8,0.2491,0.6654,0.0856
